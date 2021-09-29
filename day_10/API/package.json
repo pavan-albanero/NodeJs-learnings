@@ -1,0 +1,26 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "to perform some basic crud oprations using rest API",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha  --timeout 10000 ",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "log4js": "^6.3.0",
+    "mongodb": "^4.1.2"
+  },
+  "author": "pavan dulam",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.1.1"
+  }
+}
