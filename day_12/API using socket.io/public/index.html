@@ -12,11 +12,18 @@
             socket.on('connection',()=>{
                 console.log('new user connected to the server');
             });
-
+            socket.on('greeting-from-server', function (message) {
+                console.log('greeting from server',message);
+                alert(message, 'greeting-from-server');
+            });
+            socket.on("follow-notification",(data)=>{
+                console.log('follow-notification',data); 
+                alert(data, 'follow-notification');
+            })
 
             socket.on('new-notification', (resp) => {
                     alert(resp, 'New notification')
-    });
+                    });
     
     function sendMessage() {
       let msg = document.getElementById('msg').value;
