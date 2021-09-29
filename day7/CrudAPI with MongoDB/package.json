@@ -1,0 +1,19 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "to perform some basic crud oprations using rest API",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongodb": "^4.1.2"
+  },
+  "author": "pavan dulam",
+  "license": "ISC"
+}

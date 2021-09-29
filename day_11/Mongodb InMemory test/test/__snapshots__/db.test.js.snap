@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/PATCH/users should update users 1`] = `"update user API failed"`;
+
+exports[`/POST/users should add users 1`] = `
+Object {
+  "acknowledged": true,
+  "insertedId": "6152cd1016b24aa5b6cf37bf",
+}
+`;
+
+exports[`/POST/users should get users 1`] = `
+Object {
+  "acknowledged": true,
+  "insertedId": "6152cacbb032fad15cad319c",
+}
+`;
+
+exports[`users /GET /users/:id  get one user 1`] = `
+Object {
+  "_id": "614b1dcb62993a8ef6f47812",
+  "email": "pratikdulam@gmail.com",
+  "firstname": "pratik",
+  "followers": Array [],
+  "followings": Array [
+    Object {
+      "_id": "614b1dbf62993a8ef6f47811",
+    },
+    Object {
+      "_id": "614c0713f01bd3c9e913d7ee",
+    },
+    Object {
+      "_id": "614d7e65272093c24d506ddb",
+    },
+    Object {
+      "_id": "614d7e65272093c24d506ddb",
+    },
+  ],
+  "lastname": "dulam",
+}
+`;

@@ -1,0 +1,1486 @@
+[2021-09-24T01:10:04.165] [INFO] app - Get all API success
+[2021-09-24T01:11:08.943] [INFO] app - database connected
+[2021-09-24T01:11:25.933] [INFO] app - database connected
+[2021-09-24T01:11:44.807] [INFO] app - database connected
+[2021-09-24T01:14:12.083] [INFO] app - database connected
+[2021-09-24T01:14:19.716] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:78:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+[2021-09-24T01:16:34.108] [INFO] app - database connected
+[2021-09-24T01:16:37.322] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:78:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+[2021-09-24T01:17:51.680] [INFO] app - database connected
+[2021-09-24T01:18:37.635] [INFO] app - database connected
+[2021-09-24T01:20:35.282] [INFO] app - database connected
+[2021-09-24T01:21:50.152] [INFO] app - database connected
+[2021-09-24T01:23:15.765] [INFO] app - database connected
+[2021-09-24T01:23:40.924] [INFO] app - database connected
+[2021-09-24T01:23:44.292] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+[2021-09-24T01:24:00.989] [INFO] app - database connected
+[2021-09-24T01:24:11.336] [INFO] app - database connected
+[2021-09-24T01:24:49.449] [INFO] app - database connected
+[2021-09-24T01:25:12.867] [INFO] app - database connected
+[2021-09-24T01:26:43.123] [INFO] app - database connected
+[2021-09-24T09:41:59.363] [INFO] app - database connected
+[2021-09-24T09:45:13.808] [INFO] app - database connected
+[2021-09-24T09:51:23.176] [INFO] app - database connected
+[2021-09-24T09:53:56.835] [INFO] app - running on port 3000
+[2021-09-24T09:53:56.851] [INFO] app - database connected
+[2021-09-24T09:54:02.349] [INFO] app - Get all API success
+[2021-09-24T09:54:17.027] [INFO] app - database connected
+[2021-09-24T09:54:38.880] [INFO] app - running on port 3000
+[2021-09-24T09:54:38.896] [INFO] app - database connected
+[2021-09-24T09:54:46.861] [INFO] app - running on port 3000
+[2021-09-24T09:54:46.876] [INFO] app - database connected
+[2021-09-24T09:54:54.243] [INFO] app - database connected
+[2021-09-24T09:56:05.798] [INFO] app - running on port 3000
+[2021-09-24T09:56:05.817] [INFO] app - database connected
+[2021-09-24T09:56:18.996] [INFO] app - database connected
+[2021-09-24T09:56:49.292] [INFO] app - running on port 3000
+[2021-09-24T09:56:49.307] [INFO] app - database connected
+[2021-09-24T09:57:58.008] [INFO] app - running on port 3000
+[2021-09-24T09:57:58.022] [INFO] app - database connected
+[2021-09-24T10:02:17.012] [INFO] app - running on port 3000
+[2021-09-24T10:02:17.026] [INFO] app - database connected
+[2021-09-24T10:02:35.974] [INFO] app - database connected
+[2021-09-24T10:02:56.936] [INFO] app - running on port 3000
+[2021-09-24T10:02:56.952] [INFO] app - database connected
+[2021-09-24T10:03:06.747] [INFO] app - database connected
+[2021-09-24T10:03:28.130] [INFO] app - running on port 3000
+[2021-09-24T10:03:28.150] [INFO] app - database connected
+[2021-09-24T10:03:39.708] [INFO] app - database connected
+[2021-09-24T10:04:28.549] [INFO] app - running on port 3000
+[2021-09-24T10:04:28.565] [INFO] app - database connected
+[2021-09-24T10:05:03.229] [INFO] app - database connected
+[2021-09-24T10:05:13.794] [INFO] app - running on port 3000
+[2021-09-24T10:05:13.811] [INFO] app - database connected
+[2021-09-24T10:05:23.849] [INFO] app - database connected
+[2021-09-24T10:18:42.331] [INFO] app - running on port 3000
+[2021-09-24T10:18:42.349] [INFO] app - database connected
+[2021-09-24T10:18:44.184] [INFO] app - running on port 3000
+[2021-09-24T10:18:44.201] [INFO] app - database connected
+[2021-09-24T10:34:50.887] [INFO] app - running on port 3000
+[2021-09-24T10:34:50.902] [INFO] app - database connected
+[2021-09-24T10:35:13.627] [INFO] app - running on port 3000
+[2021-09-24T10:35:13.643] [INFO] app - database connected
+[2021-09-24T10:35:28.716] [INFO] app - database connected
+[2021-09-24T11:21:33.550] [INFO] app - running on port 3000
+[2021-09-24T11:21:33.570] [INFO] app - database connected
+[2021-09-24T11:22:16.112] [INFO] app - running on port 3000
+[2021-09-24T11:22:16.130] [INFO] app - database connected
+[2021-09-24T11:22:36.451] [INFO] app - running on port 3000
+[2021-09-24T11:22:36.467] [INFO] app - database connected
+[2021-09-24T11:22:41.299] [INFO] app - running on port 3000
+[2021-09-24T11:22:41.314] [INFO] app - database connected
+[2021-09-24T11:22:47.581] [INFO] app - database connected
+[2021-09-24T11:24:38.103] [INFO] app - running on port 3000
+[2021-09-24T11:24:38.119] [INFO] app - database connected
+[2021-09-24T11:24:39.235] [INFO] app - running on port 3000
+[2021-09-24T11:24:39.264] [INFO] app - database connected
+[2021-09-24T11:25:05.213] [INFO] app - running on port 3000
+[2021-09-24T11:25:05.233] [INFO] app - database connected
+[2021-09-24T11:25:21.537] [INFO] app - database connected
+[2021-09-24T11:26:07.037] [INFO] app - running on port 3000
+[2021-09-24T11:26:07.054] [INFO] app - database connected
+[2021-09-24T11:26:25.126] [INFO] app - database connected
+[2021-09-24T11:27:00.115] [INFO] app - running on port 3000
+[2021-09-24T11:27:00.133] [INFO] app - database connected
+[2021-09-24T11:27:12.821] [INFO] app - database connected
+[2021-09-24T11:29:05.411] [INFO] app - running on port 3000
+[2021-09-24T11:29:05.425] [INFO] app - database connected
+[2021-09-24T11:29:45.461] [INFO] app - running on port 3000
+[2021-09-24T11:29:45.475] [INFO] app - database connected
+[2021-09-24T11:35:31.651] [INFO] app - running on port 3000
+[2021-09-24T11:35:31.667] [INFO] app - database connected
+[2021-09-24T11:35:42.846] [INFO] app - database connected
+[2021-09-24T11:36:57.672] [INFO] app - running on port 3000
+[2021-09-24T11:36:57.689] [INFO] app - database connected
+[2021-09-24T11:37:40.200] [INFO] app - Get all API success
+[2021-09-24T11:37:59.714] [INFO] app - running on port 3000
+[2021-09-24T11:37:59.730] [INFO] app - database connected
+[2021-09-24T11:38:16.619] [INFO] app - running on port 3000
+[2021-09-24T11:38:16.634] [INFO] app - database connected
+[2021-09-24T11:38:24.790] [INFO] app - database connected
+[2021-09-24T11:40:16.723] [INFO] app - running on port 3000
+[2021-09-24T11:40:16.738] [INFO] app - database connected
+[2021-09-24T11:40:25.508] [INFO] app - database connected
+[2021-09-24T11:40:45.145] [INFO] app - running on port 3000
+[2021-09-24T11:40:45.161] [INFO] app - database connected
+[2021-09-24T11:41:12.176] [INFO] app - running on port 3000
+[2021-09-24T11:41:12.194] [INFO] app - database connected
+[2021-09-24T11:41:42.031] [INFO] app - running on port 3000
+[2021-09-24T11:41:42.048] [INFO] app - database connected
+[2021-09-24T11:41:48.193] [INFO] app - running on port 3000
+[2021-09-24T11:41:48.206] [INFO] app - database connected
+[2021-09-24T11:41:55.976] [INFO] app - database connected
+[2021-09-24T11:43:34.802] [INFO] app - running on port 3000
+[2021-09-24T11:43:34.815] [INFO] app - database connected
+[2021-09-24T11:43:45.857] [INFO] app - database connected
+[2021-09-24T11:46:41.234] [INFO] app - running on port 3000
+[2021-09-24T11:46:41.296] [INFO] app - database connected
+[2021-09-24T11:46:45.664] [INFO] app - running on port 3000
+[2021-09-24T11:46:45.680] [INFO] app - database connected
+[2021-09-24T11:47:12.680] [INFO] app - running on port 3000
+[2021-09-24T11:47:12.697] [INFO] app - database connected
+[2021-09-24T11:47:15.864] [INFO] app - running on port 3000
+[2021-09-24T11:47:15.881] [INFO] app - database connected
+[2021-09-24T11:47:36.548] [INFO] app - running on port 3000
+[2021-09-24T11:47:36.565] [INFO] app - database connected
+[2021-09-24T11:47:49.442] [INFO] app - running on port 3000
+[2021-09-24T11:47:49.459] [INFO] app - database connected
+[2021-09-24T11:48:00.611] [INFO] app - running on port 3000
+[2021-09-24T11:48:00.626] [INFO] app - database connected
+[2021-09-24T11:48:13.053] [INFO] app - database connected
+[2021-09-24T11:49:51.371] [INFO] app - database connected
+[2021-09-24T11:51:47.834] [INFO] app - running on port 3000
+[2021-09-24T11:51:47.849] [INFO] app - database connected
+[2021-09-24T11:52:03.119] [INFO] app - running on port 3000
+[2021-09-24T11:52:03.134] [INFO] app - database connected
+[2021-09-24T11:52:07.339] [INFO] app - database connected
+[2021-09-24T11:52:45.778] [INFO] app - running on port 3000
+[2021-09-24T11:52:45.795] [INFO] app - database connected
+[2021-09-24T11:52:51.112] [INFO] app - database connected
+[2021-09-24T11:54:25.433] [INFO] app - database connected
+[2021-09-24T11:58:23.841] [INFO] app - running on port 3000
+[2021-09-24T11:58:23.855] [INFO] app - database connected
+[2021-09-24T11:58:36.195] [INFO] app - running on port 3000
+[2021-09-24T11:58:36.209] [INFO] app - database connected
+[2021-09-24T11:58:39.872] [INFO] app - running on port 3000
+[2021-09-24T11:58:39.886] [INFO] app - database connected
+[2021-09-24T11:58:44.464] [INFO] app - database connected
+[2021-09-24T12:01:04.701] [INFO] app - running on port 3000
+[2021-09-24T12:01:04.716] [INFO] app - database connected
+[2021-09-24T12:01:28.739] [INFO] app - database connected
+[2021-09-24T12:02:09.497] [INFO] app - running on port 3000
+[2021-09-24T12:02:09.513] [INFO] app - database connected
+[2021-09-24T12:13:53.088] [INFO] app - running on port 3000
+[2021-09-24T12:13:53.110] [INFO] app - database connected
+[2021-09-24T12:13:58.900] [INFO] app - database connected
+[2021-09-24T12:15:36.624] [INFO] app - running on port 3000
+[2021-09-24T12:15:36.641] [INFO] app - database connected
+[2021-09-24T12:15:48.686] [INFO] app - running on port 3000
+[2021-09-24T12:15:48.755] [INFO] app - database connected
+[2021-09-24T12:16:07.170] [INFO] app - running on port 3000
+[2021-09-24T12:16:07.185] [INFO] app - database connected
+[2021-09-24T12:16:20.809] [INFO] app - running on port 3000
+[2021-09-24T12:16:20.868] [INFO] app - database connected
+[2021-09-24T12:17:57.202] [INFO] app - running on port 3000
+[2021-09-24T12:17:57.260] [INFO] app - database connected
+[2021-09-24T12:20:26.073] [INFO] app - running on port 3000
+[2021-09-24T12:20:26.130] [INFO] app - database connected
+[2021-09-24T12:20:26.132] [ERROR] app -  TypeError: app.address is not a function
+    at serverAddress (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:282:18)
+    at new Test (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:271:53)
+    at Object.obj.<computed> [as get] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:239:14)
+    at Context.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\test\user.test.js:14:52)
+    at callFn (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:366:21)
+    at Test.Runnable.run (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:354:5)
+    at Runner.runTest (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:681:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:804:12
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:596:14)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:606:7
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:489:14)
+    at Immediate._onImmediate (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:574:5)
+    at processImmediate (internal/timers.js:456:21)
+[2021-09-24T12:21:49.337] [INFO] app - running on port 3000
+[2021-09-24T12:21:49.397] [INFO] app - database connected
+[2021-09-24T12:21:49.400] [ERROR] app -  TypeError: app.address is not a function
+    at serverAddress (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:282:18)
+    at new Test (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:271:53)
+    at Object.obj.<computed> [as get] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:239:14)
+    at Context.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\test\user.test.js:14:52)
+    at callFn (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:366:21)
+    at Test.Runnable.run (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:354:5)
+    at Runner.runTest (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:681:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:804:12
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:596:14)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:606:7
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:489:14)
+    at Immediate._onImmediate (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:574:5)
+    at processImmediate (internal/timers.js:456:21)
+[2021-09-24T12:21:49.403] [ERROR] app -  TypeError: app.address is not a function
+    at serverAddress (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:282:18)
+    at new Test (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:271:53)
+    at Object.obj.<computed> [as post] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\chai-http\lib\request.js:239:14)
+    at Context.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\test\user.test.js:32:52)
+    at callFn (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:366:21)
+    at Test.Runnable.run (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:354:5)
+    at Runner.runTest (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:681:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:804:12
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:596:14)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:606:7
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:489:14)
+    at Immediate._onImmediate (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:574:5)
+    at processImmediate (internal/timers.js:456:21)
+[2021-09-24T12:21:49.409] [ERROR] app -  TypeError: Cannot read property '_id' of undefined
+    at Context.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\test\user.test.js:52:34)
+    at callFn (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:366:21)
+    at Test.Runnable.run (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:354:5)
+    at Runner.runTest (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:681:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:804:12
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:596:14)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:606:7
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:489:14)
+    at Immediate._onImmediate (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:574:5)
+    at processImmediate (internal/timers.js:456:21)
+[2021-09-24T12:25:27.150] [INFO] app - running on port 3000
+[2021-09-24T12:25:27.213] [INFO] app - database connected
+[2021-09-24T12:25:27.237] [INFO] app - Get all API success
+[2021-09-24T12:25:27.391] [INFO] app - add user API success
+[2021-09-24T12:25:27.402] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:25:27.410] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:27:32.002] [INFO] app - Get all API success
+[2021-09-24T12:34:13.777] [INFO] app - running on port 3000
+[2021-09-24T12:34:13.837] [INFO] app - database connected
+[2021-09-24T12:34:13.859] [INFO] app - Get all API success
+[2021-09-24T12:34:13.885] [INFO] app - add user API success
+[2021-09-24T12:34:13.891] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:34:13.897] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:35:41.033] [INFO] app - running on port 3000
+[2021-09-24T12:35:41.093] [INFO] app - database connected
+[2021-09-24T12:35:41.115] [INFO] app - Get all API success
+[2021-09-24T12:35:41.141] [INFO] app - add user API success
+[2021-09-24T12:35:41.148] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:35:41.160] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:36:48.713] [INFO] app - running on port 3000
+[2021-09-24T12:36:48.776] [INFO] app - database connected
+[2021-09-24T12:36:48.798] [INFO] app - Get all API success
+[2021-09-24T12:36:48.824] [INFO] app - add user API success
+[2021-09-24T12:36:48.834] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:36:48.840] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:36:57.712] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:37:03.277] [INFO] app - Get all API success
+[2021-09-24T12:38:00.453] [INFO] app - running on port 3000
+[2021-09-24T12:38:00.515] [INFO] app - database connected
+[2021-09-24T12:38:00.538] [INFO] app - Get all API success
+[2021-09-24T12:38:00.565] [INFO] app - add user API success
+[2021-09-24T12:38:00.572] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:38:00.584] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:39:49.749] [INFO] app - running on port 3000
+[2021-09-24T12:39:49.811] [INFO] app - database connected
+[2021-09-24T12:39:49.834] [INFO] app - Get all API success
+[2021-09-24T12:39:49.860] [INFO] app - add user API success
+[2021-09-24T12:39:49.869] [ERROR] app -  TypeError: Cannot read property '_id' of undefined
+    at Context.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\test\user.test.js:53:34)
+    at callFn (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:366:21)
+    at Test.Runnable.run (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runnable.js:354:5)
+    at Runner.runTest (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:681:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:804:12
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:596:14)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:606:7
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:489:14)
+    at Immediate._onImmediate (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\mocha\lib\runner.js:574:5)
+    at processImmediate (internal/timers.js:456:21)
+[2021-09-24T12:40:30.881] [INFO] app - running on port 3000
+[2021-09-24T12:40:30.942] [INFO] app - database connected
+[2021-09-24T12:40:30.965] [INFO] app - Get all API success
+[2021-09-24T12:40:30.991] [INFO] app - add user API success
+[2021-09-24T12:40:31.000] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:40:31.006] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:41:06.201] [INFO] app - running on port 3000
+[2021-09-24T12:41:06.265] [INFO] app - database connected
+[2021-09-24T12:41:06.288] [INFO] app - Get all API success
+[2021-09-24T12:41:06.315] [INFO] app - add user API success
+[2021-09-24T12:41:06.326] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:109:71
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:101:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:224:16)
+    at done (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-09-24T12:41:06.331] [ERROR] app - delete API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\bson\lib\objectid.js:61:23)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\routes\usersRoutes.js:87:47
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:410:3)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at router (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at urlencodedParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at query (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\middleware\query.js:45:5)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:317:13)
+    at F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:335:12)
+    at next (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\router\index.js:174:3)
+    at Function.handle (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\application.js:174:10)
+    at Server.app (F:\Company\Albanero\NodeJs\Learning\day8\CrudAPI with MongoDB\node_modules\express\lib\express.js:39:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:790:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)
+[2021-09-24T12:41:53.668] [INFO] app - running on port 3000
+[2021-09-24T12:41:53.733] [INFO] app - database connected
+[2021-09-24T12:41:53.756] [INFO] app - Get all API success
+[2021-09-24T12:41:53.782] [INFO] app - add user API success
+[2021-09-24T12:41:53.843] [INFO] app - update user API success
+[2021-09-24T12:41:53.907] [INFO] app - delete user API success
+[2021-09-24T12:42:13.599] [INFO] app - Get all API success
+[2021-09-24T12:42:31.944] [INFO] app - delete user API success
+[2021-09-24T12:42:44.828] [INFO] app - delete user API success
+[2021-09-24T12:42:56.402] [INFO] app - delete user API success
+[2021-09-24T12:43:08.560] [INFO] app - delete user API success
+[2021-09-24T12:43:18.871] [INFO] app - delete user API success
+[2021-09-24T12:43:28.747] [INFO] app - delete user API success
+[2021-09-24T12:43:39.467] [INFO] app - delete user API success
+[2021-09-24T12:43:50.796] [INFO] app - delete user API success
+[2021-09-24T12:43:53.610] [INFO] app - Get all API success
+[2021-09-24T12:44:16.322] [INFO] app - running on port 3000
+[2021-09-24T12:44:16.380] [INFO] app - database connected
+[2021-09-24T12:44:16.406] [INFO] app - Get all API success
+[2021-09-24T12:44:16.434] [INFO] app - add user API success
+[2021-09-24T12:44:16.443] [INFO] app - update user API success
+[2021-09-24T12:44:20.951] [INFO] app - Get all API success
+[2021-09-24T12:45:03.977] [INFO] app - running on port 3000
+[2021-09-24T12:45:04.041] [INFO] app - database connected
+[2021-09-24T12:45:04.063] [INFO] app - Get all API success
+[2021-09-24T12:45:04.089] [INFO] app - add user API success
+[2021-09-24T12:45:04.100] [INFO] app - update user API success
+[2021-09-24T12:45:23.223] [INFO] app - Get all API success
+[2021-09-24T12:53:17.119] [INFO] app - running on port 3000
+[2021-09-24T12:53:17.180] [INFO] app - database connected
+[2021-09-24T12:53:17.203] [INFO] app - Get all API success
+[2021-09-24T12:53:17.229] [INFO] app - add user API success
+[2021-09-24T12:53:17.238] [INFO] app - update user API success
+[2021-09-24T12:53:17.328] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:53:17.352] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:54:00.757] [INFO] app - Get all API success
+[2021-09-24T12:55:13.438] [INFO] app - running on port 3000
+[2021-09-24T12:55:13.499] [INFO] app - database connected
+[2021-09-24T12:55:13.520] [INFO] app - Get all API success
+[2021-09-24T12:55:13.546] [INFO] app - add user API success
+[2021-09-24T12:55:13.556] [INFO] app - update user API success
+[2021-09-24T12:55:13.566] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:55:13.572] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:55:24.779] [INFO] app - Get all API success
+[2021-09-24T12:55:56.906] [INFO] app - running on port 3000
+[2021-09-24T12:55:56.968] [INFO] app - database connected
+[2021-09-24T12:55:56.990] [INFO] app - Get all API success
+[2021-09-24T12:55:57.016] [INFO] app - add user API success
+[2021-09-24T12:55:57.027] [INFO] app - update user API success
+[2021-09-24T12:55:57.038] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:55:57.044] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:56:05.781] [INFO] app - Get all API success
+[2021-09-24T12:58:19.821] [INFO] app - running on port 3000
+[2021-09-24T12:58:19.881] [INFO] app - database connected
+[2021-09-24T12:58:19.903] [INFO] app - Get all API success
+[2021-09-24T12:58:19.929] [INFO] app - add user API success
+[2021-09-24T12:58:19.940] [INFO] app - update user API success
+[2021-09-24T12:58:19.949] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:58:19.955] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:59:41.756] [INFO] app - running on port 3000
+[2021-09-24T12:59:41.816] [INFO] app - database connected
+[2021-09-24T12:59:41.838] [INFO] app - Get all API success
+[2021-09-24T12:59:41.864] [INFO] app - add user API success
+[2021-09-24T12:59:41.872] [INFO] app - update user API success
+[2021-09-24T12:59:41.882] [INFO] app - you already follow this [object Object]
+[2021-09-24T12:59:41.888] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:00:12.117] [INFO] app - Get all API success
+[2021-09-24T13:03:28.221] [INFO] app - Get all API success
+[2021-09-24T13:03:49.921] [INFO] app - [object Object] has been followed
+[2021-09-24T13:03:53.041] [INFO] app - Get all API success
+[2021-09-24T13:06:50.737] [INFO] app - running on port 3000
+[2021-09-24T13:06:50.799] [INFO] app - database connected
+[2021-09-24T13:06:50.821] [INFO] app - Get all API success
+[2021-09-24T13:06:50.848] [INFO] app - add user API success
+[2021-09-24T13:06:50.858] [INFO] app - update user API success
+[2021-09-24T13:06:50.872] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:06:50.879] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:07:20.402] [INFO] app - Get all API success
+[2021-09-24T13:16:11.074] [INFO] app - running on port 3000
+[2021-09-24T13:16:11.136] [INFO] app - database connected
+[2021-09-24T13:16:11.159] [INFO] app - Get all API success
+[2021-09-24T13:16:11.187] [INFO] app - add user API success
+[2021-09-24T13:16:11.201] [INFO] app - update user API success
+[2021-09-24T13:16:11.213] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:16:11.220] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:16:22.383] [INFO] app - Get all API success
+[2021-09-24T13:17:30.465] [INFO] app - running on port 3000
+[2021-09-24T13:17:30.524] [INFO] app - database connected
+[2021-09-24T13:17:30.547] [INFO] app - Get all API success
+[2021-09-24T13:17:30.573] [INFO] app - add user API success
+[2021-09-24T13:17:30.583] [INFO] app - update user API success
+[2021-09-24T13:17:30.592] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:17:30.597] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:21:39.831] [INFO] app - running on port 3000
+[2021-09-24T13:21:39.891] [INFO] app - database connected
+[2021-09-24T13:21:39.915] [INFO] app - Get all API success
+[2021-09-24T13:21:39.941] [INFO] app - add user API success
+[2021-09-24T13:21:39.951] [INFO] app - update user API success
+[2021-09-24T13:21:39.960] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:21:39.966] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:22:43.123] [INFO] app - running on port 3000
+[2021-09-24T13:22:43.184] [INFO] app - database connected
+[2021-09-24T13:22:43.206] [INFO] app - Get all API success
+[2021-09-24T13:22:43.232] [INFO] app - add user API success
+[2021-09-24T13:22:43.242] [INFO] app - update user API success
+[2021-09-24T13:22:43.254] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:22:43.261] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:24:07.126] [INFO] app - running on port 3000
+[2021-09-24T13:24:07.187] [INFO] app - database connected
+[2021-09-24T13:24:07.209] [INFO] app - Get all API success
+[2021-09-24T13:24:07.233] [INFO] app - add user API success
+[2021-09-24T13:24:07.241] [INFO] app - update user API success
+[2021-09-24T13:24:07.250] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:24:07.256] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:24:11.232] [INFO] app - Get all API success
+[2021-09-24T13:26:33.331] [INFO] app - running on port 3000
+[2021-09-24T13:26:33.391] [INFO] app - database connected
+[2021-09-24T13:26:33.414] [INFO] app - Get all API success
+[2021-09-24T13:26:33.440] [INFO] app - add user API success
+[2021-09-24T13:26:33.453] [INFO] app - update user API success
+[2021-09-24T13:30:06.123] [INFO] app - running on port 3000
+[2021-09-24T13:30:06.191] [INFO] app - database connected
+[2021-09-24T13:30:06.207] [INFO] app - Get all API success
+[2021-09-24T13:30:06.233] [INFO] app - add user API success
+[2021-09-24T13:30:06.242] [INFO] app - update user API success
+[2021-09-24T13:31:49.226] [INFO] app - running on port 3000
+[2021-09-24T13:31:49.288] [INFO] app - database connected
+[2021-09-24T13:31:49.310] [INFO] app - Get all API success
+[2021-09-24T13:31:49.336] [INFO] app - add user API success
+[2021-09-24T13:31:49.348] [INFO] app - update user API success
+[2021-09-24T13:31:49.419] [INFO] app - view followers API success
+[2021-09-24T13:32:40.563] [INFO] app - running on port 3000
+[2021-09-24T13:32:40.622] [INFO] app - database connected
+[2021-09-24T13:32:40.644] [INFO] app - Get all API success
+[2021-09-24T13:32:40.670] [INFO] app - add user API success
+[2021-09-24T13:32:40.682] [INFO] app - update user API success
+[2021-09-24T13:32:40.691] [INFO] app - view followers API success
+[2021-09-24T13:48:59.625] [INFO] app - running on port 3000
+[2021-09-24T13:48:59.691] [INFO] app - database connected
+[2021-09-24T13:48:59.714] [INFO] app - Get all API success
+[2021-09-24T13:48:59.740] [INFO] app - add user API success
+[2021-09-24T13:48:59.750] [INFO] app - update user API success
+[2021-09-24T13:48:59.759] [INFO] app - view followers API success
+[2021-09-24T13:50:33.558] [INFO] app - running on port 3000
+[2021-09-24T13:50:33.618] [INFO] app - database connected
+[2021-09-24T13:50:33.641] [INFO] app - Get all API success
+[2021-09-24T13:50:33.668] [INFO] app - add user API success
+[2021-09-24T13:50:33.680] [INFO] app - update user API success
+[2021-09-24T13:50:33.687] [INFO] app - view followers API success
+[2021-09-24T13:51:31.245] [INFO] app - running on port 3000
+[2021-09-24T13:51:31.312] [INFO] app - database connected
+[2021-09-24T13:51:31.336] [INFO] app - Get all API success
+[2021-09-24T13:51:31.368] [INFO] app - add user API success
+[2021-09-24T13:51:31.377] [INFO] app - update user API success
+[2021-09-24T13:51:31.384] [INFO] app - view followers API success
+[2021-09-24T13:56:14.384] [INFO] app - running on port 3000
+[2021-09-24T13:56:14.444] [INFO] app - database connected
+[2021-09-24T13:56:14.467] [INFO] app - Get all API success
+[2021-09-24T13:56:14.493] [INFO] app - add user API success
+[2021-09-24T13:56:14.503] [INFO] app - update user API success
+[2021-09-24T13:56:14.513] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:56:14.520] [INFO] app - you already follow this [object Object]
+[2021-09-24T13:56:14.529] [INFO] app - view followers API success
+[2021-09-24T13:58:40.372] [INFO] app - running on port 3000
+[2021-09-24T13:58:40.431] [INFO] app - database connected
+[2021-09-24T13:58:40.454] [INFO] app - Get all API success
+[2021-09-24T13:58:40.480] [INFO] app - add user API success
+[2021-09-24T13:58:40.492] [INFO] app - update user API success
+[2021-09-24T13:58:40.510] [INFO] app - view followers API success
+[2021-09-24T13:59:26.777] [INFO] app - Get all API success
+[2021-09-24T14:01:27.827] [INFO] app - running on port 3000
+[2021-09-24T14:01:27.889] [INFO] app - database connected
+[2021-09-24T14:01:27.912] [INFO] app - Get all API success
+[2021-09-24T14:01:27.938] [INFO] app - add user API success
+[2021-09-24T14:01:27.950] [INFO] app - update user API success
+[2021-09-24T14:01:27.971] [INFO] app - view followers API success
+[2021-09-24T14:02:43.329] [INFO] app - running on port 3000
+[2021-09-24T14:02:43.391] [INFO] app - database connected
+[2021-09-24T14:02:43.413] [INFO] app - Get all API success
+[2021-09-24T14:02:43.440] [INFO] app - add user API success
+[2021-09-24T14:02:43.451] [INFO] app - update user API success
+[2021-09-24T14:02:43.551] [INFO] app - view followers API success
+[2021-09-24T14:04:48.360] [INFO] app - running on port 3000
+[2021-09-24T14:04:48.420] [INFO] app - database connected
+[2021-09-24T14:04:48.443] [INFO] app - Get all API success
+[2021-09-24T14:04:48.469] [INFO] app - add user API success
+[2021-09-24T14:04:48.478] [INFO] app - update user API success
+[2021-09-24T14:04:48.542] [INFO] app - view followers API success
+[2021-09-24T14:06:04.259] [INFO] app - running on port 3000
+[2021-09-24T14:06:04.323] [INFO] app - database connected
+[2021-09-24T14:06:04.346] [INFO] app - Get all API success
+[2021-09-24T14:06:04.372] [INFO] app - add user API success
+[2021-09-24T14:06:04.383] [INFO] app - update user API success
+[2021-09-24T14:06:04.407] [INFO] app - view followers API success
+[2021-09-24T14:17:05.495] [INFO] app - running on port 3000
+[2021-09-24T14:17:05.558] [INFO] app - database connected
+[2021-09-24T14:17:05.580] [INFO] app - Get all API success
+[2021-09-24T14:17:05.607] [INFO] app - add user API success
+[2021-09-24T14:17:05.616] [INFO] app - update user API success
+[2021-09-24T14:17:05.641] [INFO] app - view followers API success
+[2021-09-24T14:18:35.583] [INFO] app - running on port 3000
+[2021-09-24T14:18:35.642] [INFO] app - database connected
+[2021-09-24T14:18:35.664] [INFO] app - Get all API success
+[2021-09-24T14:18:35.690] [INFO] app - add user API success
+[2021-09-24T14:18:35.699] [INFO] app - update user API success
+[2021-09-24T14:18:35.723] [INFO] app - view followers API success
+[2021-09-24T14:22:49.693] [INFO] app - running on port 3000
+[2021-09-24T14:22:49.754] [INFO] app - database connected
+[2021-09-24T14:22:49.776] [INFO] app - Get all API success
+[2021-09-24T14:22:49.803] [INFO] app - add user API success
+[2021-09-24T14:22:49.812] [INFO] app - update user API success
+[2021-09-24T14:22:49.838] [INFO] app - view followers API success
+[2021-09-24T14:24:01.131] [INFO] app - running on port 3000
+[2021-09-24T14:24:01.194] [INFO] app - database connected
+[2021-09-24T14:24:01.218] [INFO] app - Get all API success
+[2021-09-24T14:24:01.245] [INFO] app - add user API success
+[2021-09-24T14:24:01.253] [INFO] app - update user API success
+[2021-09-24T14:24:01.419] [INFO] app - view followers API success
+[2021-09-24T14:24:46.196] [INFO] app - running on port 3000
+[2021-09-24T14:24:46.256] [INFO] app - database connected
+[2021-09-24T14:24:46.278] [INFO] app - Get all API success
+[2021-09-24T14:24:46.303] [INFO] app - add user API success
+[2021-09-24T14:24:46.313] [INFO] app - update user API success
+[2021-09-24T14:24:46.321] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:24:46.327] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:24:46.342] [INFO] app - view followers API success
+[2021-09-24T14:25:44.770] [INFO] app - Get all API success
+[2021-09-24T14:26:06.907] [INFO] app - running on port 3000
+[2021-09-24T14:26:06.968] [INFO] app - database connected
+[2021-09-24T14:26:06.992] [INFO] app - Get all API success
+[2021-09-24T14:26:07.019] [INFO] app - add user API success
+[2021-09-24T14:26:07.027] [INFO] app - update user API success
+[2021-09-24T14:26:07.036] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:26:07.050] [INFO] app - view followers API success
+[2021-09-24T14:27:12.069] [INFO] app - running on port 3000
+[2021-09-24T14:27:12.127] [INFO] app - database connected
+[2021-09-24T14:27:12.150] [INFO] app - Get all API success
+[2021-09-24T14:27:12.176] [INFO] app - add user API success
+[2021-09-24T14:27:12.185] [INFO] app - update user API success
+[2021-09-24T14:27:12.193] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:27:12.207] [INFO] app - view followers API success
+[2021-09-24T14:28:32.887] [INFO] app - running on port 3000
+[2021-09-24T14:28:32.951] [INFO] app - database connected
+[2021-09-24T14:28:32.974] [INFO] app - Get all API success
+[2021-09-24T14:28:32.999] [INFO] app - add user API success
+[2021-09-24T14:28:33.008] [INFO] app - update user API success
+[2021-09-24T14:28:33.018] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:28:33.032] [INFO] app - view followers API success
+[2021-09-24T14:28:42.059] [INFO] app - Get all API success
+[2021-09-24T14:34:50.739] [INFO] app - running on port 3000
+[2021-09-24T14:34:50.798] [INFO] app - database connected
+[2021-09-24T14:34:50.821] [INFO] app - Get all API success
+[2021-09-24T14:34:50.846] [INFO] app - add user API success
+[2021-09-24T14:34:50.855] [INFO] app - update user API success
+[2021-09-24T14:34:50.863] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:34:50.877] [INFO] app - view followers API success
+[2021-09-24T14:35:28.567] [INFO] app - running on port 3000
+[2021-09-24T14:35:28.629] [INFO] app - database connected
+[2021-09-24T14:35:28.652] [INFO] app - Get all API success
+[2021-09-24T14:35:28.679] [INFO] app - add user API success
+[2021-09-24T14:35:28.690] [INFO] app - update user API success
+[2021-09-24T14:35:28.698] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:35:28.712] [INFO] app - view followers API success
+[2021-09-24T14:36:22.438] [INFO] app - running on port 3000
+[2021-09-24T14:36:22.497] [INFO] app - database connected
+[2021-09-24T14:36:22.520] [INFO] app - Get all API success
+[2021-09-24T14:36:22.546] [INFO] app - add user API success
+[2021-09-24T14:36:22.556] [INFO] app - update user API success
+[2021-09-24T14:36:22.565] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:36:22.580] [INFO] app - view followers API success
+[2021-09-24T14:38:35.622] [INFO] app - running on port 3000
+[2021-09-24T14:38:35.681] [INFO] app - database connected
+[2021-09-24T14:38:35.704] [INFO] app - Get all API success
+[2021-09-24T14:38:35.730] [INFO] app - add user API success
+[2021-09-24T14:38:35.739] [INFO] app - update user API success
+[2021-09-24T14:38:35.749] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:38:35.763] [INFO] app - view followers API success
+[2021-09-24T14:38:54.456] [INFO] app - Get all API success
+[2021-09-24T14:40:29.165] [INFO] app - running on port 3000
+[2021-09-24T14:40:29.226] [INFO] app - database connected
+[2021-09-24T14:40:29.249] [INFO] app - Get all API success
+[2021-09-24T14:40:29.275] [INFO] app - add user API success
+[2021-09-24T14:40:29.284] [INFO] app - update user API success
+[2021-09-24T14:40:29.292] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:40:29.306] [INFO] app - view followers API success
+[2021-09-24T14:40:58.956] [INFO] app - running on port 3000
+[2021-09-24T14:40:59.017] [INFO] app - database connected
+[2021-09-24T14:40:59.042] [INFO] app - Get all API success
+[2021-09-24T14:40:59.068] [INFO] app - add user API success
+[2021-09-24T14:40:59.078] [INFO] app - update user API success
+[2021-09-24T14:40:59.088] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:40:59.103] [INFO] app - view followers API success
+[2021-09-24T14:41:37.552] [INFO] app - Get all API success
+[2021-09-24T14:42:58.292] [INFO] app - running on port 3000
+[2021-09-24T14:42:58.351] [INFO] app - database connected
+[2021-09-24T14:42:58.373] [INFO] app - Get all API success
+[2021-09-24T14:42:58.399] [INFO] app - add user API success
+[2021-09-24T14:42:58.408] [INFO] app - update user API success
+[2021-09-24T14:42:58.417] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:42:58.431] [INFO] app - view followers API success
+[2021-09-24T14:55:27.866] [INFO] app - running on port 3000
+[2021-09-24T14:55:27.937] [INFO] app - database connected
+[2021-09-24T14:55:27.963] [INFO] app - Get all API success
+[2021-09-24T14:55:27.991] [INFO] app - add user API success
+[2021-09-24T14:55:27.999] [INFO] app - update user API success
+[2021-09-24T14:55:28.009] [INFO] app - you already follow this [object Object]
+[2021-09-24T14:55:28.023] [INFO] app - view followers API success
+[2021-09-24T14:58:13.838] [INFO] app - running on port 3000
+[2021-09-24T14:58:13.914] [INFO] app - database connected
+[2021-09-24T14:58:13.936] [INFO] app - Get all API success
+[2021-09-24T14:58:13.964] [INFO] app - add user API success
+[2021-09-24T14:58:13.973] [INFO] app - update user API success
+[2021-09-24T14:58:13.986] [INFO] app - view followers API success
+[2021-09-24T15:00:53.963] [INFO] app - running on port 3000
+[2021-09-24T15:00:54.024] [INFO] app - database connected
+[2021-09-24T15:00:54.047] [INFO] app - Get all API success
+[2021-09-24T15:00:54.073] [INFO] app - add user API success
+[2021-09-24T15:00:54.083] [INFO] app - update user API success
+[2021-09-24T15:00:54.091] [INFO] app - you already follow this [object Object]
+[2021-09-24T15:00:54.106] [INFO] app - view followers API success
+[2021-09-24T15:05:29.373] [INFO] app - running on port 3000
+[2021-09-24T15:05:29.433] [INFO] app - database connected
+[2021-09-24T15:05:29.456] [INFO] app - Get all API success
+[2021-09-24T15:05:29.482] [INFO] app - add user API success
+[2021-09-24T15:05:29.493] [INFO] app - update user API success
+[2021-09-24T15:05:29.502] [INFO] app - you already follow this [object Object]
+[2021-09-24T15:05:29.508] [INFO] app - you already follow this [object Object]
+[2021-09-24T15:05:29.522] [INFO] app - view followers API success
+[2021-09-24T15:08:48.362] [INFO] app - running on port 3000
+[2021-09-24T15:08:48.430] [INFO] app - database connected
+[2021-09-24T15:08:48.457] [INFO] app - Get all API success
+[2021-09-24T15:08:48.472] [INFO] app - Get by id API success
+[2021-09-24T15:08:48.497] [INFO] app - add user API success
+[2021-09-24T15:08:48.508] [INFO] app - update user API success
+[2021-09-24T15:08:48.515] [INFO] app - delete user API success
+[2021-09-24T15:08:48.524] [INFO] app - you already follow this null
+[2021-09-24T15:08:48.532] [INFO] app - you already follow this [object Object]
+[2021-09-24T15:08:48.548] [INFO] app - view followers API success
+[2021-09-24T16:29:20.064] [INFO] app - running on port 3000
+[2021-09-24T16:29:20.083] [INFO] app - database connected
+[2021-09-24T17:05:05.086] [INFO] app - running on port 3000
+[2021-09-24T17:05:05.112] [INFO] app - database connected
+[2021-09-24T17:05:34.874] [INFO] app - database status: undefined
+[2021-09-24T17:05:34.879] [INFO] app - running on port 3000
+[2021-09-24T17:05:34.894] [INFO] app - database connected
+[2021-09-24T17:05:59.928] [INFO] app - Get all API success
+[2021-09-24T17:07:20.337] [INFO] app - database status: undefined
+[2021-09-24T17:07:20.341] [INFO] app - running on port 3000
+[2021-09-24T17:07:20.353] [INFO] app - database connected
+[2021-09-24T17:07:35.991] [INFO] app - Get all API success
+[2021-09-24T17:07:35.991] [INFO] app - database status in get api: Db {
+  s: {
+    client: MongoClient {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      s: [Object],
+      topology: [Topology],
+      [Symbol(kCapture)]: false,
+      [Symbol(options)]: [Object: null prototype]
+    },
+    options: {
+      forceServerObjectId: false,
+      logger: [Logger],
+      pkFactory: [Object],
+      raw: false,
+      readPreference: [ReadPreference],
+      retryWrites: true
+    },
+    logger: Logger { className: 'Db' },
+    readPreference: ReadPreference {
+      mode: 'primary',
+      tags: undefined,
+      hedge: undefined,
+      maxStalenessSeconds: undefined,
+      minWireVersion: undefined
+    },
+    bsonOptions: {
+      raw: false,
+      promoteLongs: true,
+      promoteValues: true,
+      promoteBuffers: false,
+      ignoreUndefined: false,
+      bsonRegExp: false,
+      serializeFunctions: false,
+      fieldsAsRaw: {}
+    },
+    pkFactory: { createPk: [Function: createPk] },
+    readConcern: undefined,
+    writeConcern: undefined,
+    namespace: MongoDBNamespace { db: 'crud', collection: undefined }
+  }
+}

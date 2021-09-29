@@ -1,0 +1,15 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "to perform some basic crud oprations using rest API",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "author": "pavan dulam",
+  "license": "ISC"
+}

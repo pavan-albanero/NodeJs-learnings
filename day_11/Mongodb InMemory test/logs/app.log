@@ -1,0 +1,529 @@
+[2021-09-28T00:46:44.266] [INFO] app - host : mongodb://localhost
+[2021-09-28T00:46:44.268] [INFO] app - port : 27017
+[2021-09-28T00:46:44.268] [INFO] app - database name: crud
+[2021-09-28T00:46:44.287] [INFO] app - running on port 3000
+[2021-09-28T00:46:44.483] [INFO] app - database connected
+[2021-09-28T00:46:44.484] [INFO] app - connection intialized 
+[2021-09-28T00:47:27.414] [INFO] app - Get all API success
+[2021-09-28T00:47:27.414] [INFO] app - database status in get api:
+[2021-09-28T01:27:21.509] [INFO] app - host : mongodb://localhost
+[2021-09-28T01:27:21.560] [INFO] app - port : 27017
+[2021-09-28T01:27:21.560] [INFO] app - database name: crud
+[2021-09-28T01:27:21.712] [INFO] app - running on port 3000
+[2021-09-28T01:27:22.353] [INFO] app - database connected
+[2021-09-28T01:27:22.353] [INFO] app - connection intialized 
+[2021-09-28T01:29:30.217] [INFO] app - host : mongodb://localhost
+[2021-09-28T01:29:30.218] [INFO] app - port : 27017
+[2021-09-28T01:29:30.218] [INFO] app - database name: crud
+[2021-09-28T01:29:30.838] [INFO] app - database connected
+[2021-09-28T01:29:30.838] [INFO] app - connection intialized 
+[2021-09-28T10:58:51.326] [INFO] app - host : mongodb://localhost
+[2021-09-28T10:58:51.508] [INFO] app - port : 27017
+[2021-09-28T10:58:51.508] [INFO] app - database name: crud
+[2021-09-28T10:58:54.847] [INFO] app - database connected
+[2021-09-28T10:58:54.847] [INFO] app - connection intialized 
+[2021-09-28T11:32:45.850] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:32:45.851] [INFO] app - port : 27017
+[2021-09-28T11:32:45.851] [INFO] app - database name: crud
+[2021-09-28T11:32:47.633] [INFO] app - database connected
+[2021-09-28T11:32:47.634] [INFO] app - connection intialized 
+[2021-09-28T11:38:24.468] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:38:24.470] [INFO] app - port : 27017
+[2021-09-28T11:38:24.470] [INFO] app - database name: crud
+[2021-09-28T11:38:25.071] [INFO] app - database connected
+[2021-09-28T11:38:25.071] [INFO] app - connection intialized 
+[2021-09-28T11:53:06.154] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:53:06.155] [INFO] app - port : 27017
+[2021-09-28T11:53:06.155] [INFO] app - database name: crud
+[2021-09-28T11:53:08.447] [INFO] app - database connected
+[2021-09-28T11:53:08.447] [INFO] app - connection intialized 
+[2021-09-28T11:53:47.219] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:53:47.221] [INFO] app - port : 27017
+[2021-09-28T11:53:47.221] [INFO] app - database name: crud
+[2021-09-28T11:53:47.878] [INFO] app - database connected
+[2021-09-28T11:53:47.878] [INFO] app - connection intialized 
+[2021-09-28T11:54:45.674] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:54:45.676] [INFO] app - port : 27017
+[2021-09-28T11:54:45.676] [INFO] app - database name: crud
+[2021-09-28T11:54:46.234] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T11:54:46.287] [INFO] app - database connected
+[2021-09-28T11:54:46.287] [INFO] app - connection intialized 
+[2021-09-28T11:55:32.600] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:55:32.601] [INFO] app - port : 27017
+[2021-09-28T11:55:32.601] [INFO] app - database name: crud
+[2021-09-28T11:55:33.162] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T11:55:33.220] [INFO] app - database connected
+[2021-09-28T11:55:33.220] [INFO] app - connection intialized 
+[2021-09-28T11:56:41.236] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:56:41.237] [INFO] app - port : 27017
+[2021-09-28T11:56:41.238] [INFO] app - database name: crud
+[2021-09-28T11:56:41.840] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T11:56:41.896] [INFO] app - database connected
+[2021-09-28T11:56:41.896] [INFO] app - connection intialized 
+[2021-09-28T11:57:40.221] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:57:40.222] [INFO] app - port : 27017
+[2021-09-28T11:57:40.222] [INFO] app - database name: crud
+[2021-09-28T11:57:40.780] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T11:57:40.837] [INFO] app - database connected
+[2021-09-28T11:57:40.838] [INFO] app - connection intialized 
+[2021-09-28T11:59:34.560] [INFO] app - host : mongodb://localhost
+[2021-09-28T11:59:34.562] [INFO] app - port : 27017
+[2021-09-28T11:59:34.562] [INFO] app - database name: crud
+[2021-09-28T11:59:35.225] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T11:59:35.278] [INFO] app - database connected
+[2021-09-28T11:59:35.278] [INFO] app - connection intialized 
+[2021-09-28T12:00:05.689] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:00:05.690] [INFO] app - port : 27017
+[2021-09-28T12:00:05.690] [INFO] app - database name: crud
+[2021-09-28T12:00:06.297] [ERROR] app -  TypeError: chai.request is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\database.test.js:56:36)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:167:21)
+[2021-09-28T12:00:06.355] [INFO] app - database connected
+[2021-09-28T12:00:06.355] [INFO] app - connection intialized 
+[2021-09-28T12:02:41.742] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:02:41.744] [INFO] app - port : 27017
+[2021-09-28T12:02:41.744] [INFO] app - database name: crud
+[2021-09-28T12:02:42.390] [INFO] app - database connected
+[2021-09-28T12:02:42.390] [INFO] app - connection intialized 
+[2021-09-28T12:13:43.552] [ERROR] app -  Error: socket hang up
+    at connResetException (internal/errors.js:609:14)
+    at Socket.socketOnEnd (_http_client.js:453:23)
+    at Socket.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  response: undefined
+}
+[2021-09-28T12:13:50.693] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:13:51.037] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:13:50.694] [INFO] app - port : 27017
+[2021-09-28T12:13:51.037] [INFO] app - port : 27017
+[2021-09-28T12:13:50.694] [INFO] app - database name: crud
+[2021-09-28T12:13:51.037] [INFO] app - database name: crud
+[2021-09-28T12:13:51.509] [INFO] app - database connected
+[2021-09-28T12:13:51.509] [INFO] app - connection intialized 
+[2021-09-28T12:14:26.667] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:14:27.459] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:14:26.668] [INFO] app - port : 27017
+[2021-09-28T12:14:27.460] [INFO] app - port : 27017
+[2021-09-28T12:14:26.668] [INFO] app - database name: crud
+[2021-09-28T12:14:27.460] [INFO] app - database name: crud
+[2021-09-28T12:14:27.489] [INFO] app - database connected
+[2021-09-28T12:14:27.489] [INFO] app - connection intialized 
+[2021-09-28T12:17:08.310] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:17:09.037] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:17:08.311] [INFO] app - port : 27017
+[2021-09-28T12:17:09.037] [INFO] app - port : 27017
+[2021-09-28T12:17:08.311] [INFO] app - database name: crud
+[2021-09-28T12:17:09.037] [INFO] app - database name: crud
+[2021-09-28T12:17:09.083] [INFO] app - database connected
+[2021-09-28T12:17:09.083] [INFO] app - connection intialized 
+[2021-09-28T12:18:32.407] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:18:32.408] [INFO] app - port : 27017
+[2021-09-28T12:18:32.409] [INFO] app - database name: crud
+[2021-09-28T12:18:32.846] [INFO] app - database connected
+[2021-09-28T12:18:32.846] [INFO] app - connection intialized 
+[2021-09-28T12:34:59.287] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:34:59.288] [INFO] app - port : 27017
+[2021-09-28T12:34:59.288] [INFO] app - database name: crud
+[2021-09-28T12:34:59.703] [INFO] app - database connected
+[2021-09-28T12:34:59.703] [INFO] app - connection intialized 
+[2021-09-28T12:35:30.513] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:35:30.514] [INFO] app - port : 27017
+[2021-09-28T12:35:30.514] [INFO] app - database name: crud
+[2021-09-28T12:35:30.909] [INFO] app - database connected
+[2021-09-28T12:35:30.909] [INFO] app - connection intialized 
+[2021-09-28T12:36:23.206] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:36:23.207] [INFO] app - port : 27017
+[2021-09-28T12:36:23.207] [INFO] app - database name: crud
+[2021-09-28T12:36:23.602] [INFO] app - database connected
+[2021-09-28T12:36:23.602] [INFO] app - connection intialized 
+[2021-09-28T12:37:57.768] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:37:57.769] [INFO] app - port : 27017
+[2021-09-28T12:37:57.769] [INFO] app - database name: crud
+[2021-09-28T12:37:58.197] [INFO] app - database connected
+[2021-09-28T12:37:58.197] [INFO] app - connection intialized 
+[2021-09-28T12:42:36.712] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:42:36.714] [INFO] app - port : 27017
+[2021-09-28T12:42:36.714] [INFO] app - database name: crud
+[2021-09-28T12:42:37.093] [INFO] app - database connected
+[2021-09-28T12:42:37.093] [INFO] app - connection intialized 
+[2021-09-28T12:44:38.875] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:44:38.876] [INFO] app - port : 27017
+[2021-09-28T12:44:38.876] [INFO] app - database name: crud
+[2021-09-28T12:44:39.263] [INFO] app - database connected
+[2021-09-28T12:44:39.263] [INFO] app - connection intialized 
+[2021-09-28T12:46:16.721] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:46:16.722] [INFO] app - port : 27017
+[2021-09-28T12:46:16.722] [INFO] app - database name: crud
+[2021-09-28T12:46:17.097] [INFO] app - running on port 3000
+[2021-09-28T12:46:17.120] [INFO] app - database connected
+[2021-09-28T12:46:17.120] [INFO] app - connection intialized 
+[2021-09-28T12:46:17.618] [INFO] app - Get all API success
+[2021-09-28T12:46:17.618] [INFO] app - database status in get api:
+[2021-09-28T12:46:17.634] [ERROR] app -  Error: Invalid Chai property: toBe. Did you mean "to"?
+    at Object.proxyGetter [as get] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\chai\lib\chai\utils\proxify.js:75:17)
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:28:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-09-28T12:46:36.332] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:46:36.333] [INFO] app - port : 27017
+[2021-09-28T12:46:36.333] [INFO] app - database name: crud
+[2021-09-28T12:46:36.696] [INFO] app - running on port 3000
+[2021-09-28T12:46:36.721] [INFO] app - database connected
+[2021-09-28T12:46:36.721] [INFO] app - connection intialized 
+[2021-09-28T12:46:37.177] [INFO] app - Get all API success
+[2021-09-28T12:46:37.177] [INFO] app - database status in get api:
+[2021-09-28T12:46:37.186] [ERROR] app -  Error: Invalid Chai property: toBe. Did you mean "to"?
+    at Object.proxyGetter [as get] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\chai\lib\chai\utils\proxify.js:75:17)
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:28:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-09-28T12:46:56.011] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:46:56.012] [INFO] app - port : 27017
+[2021-09-28T12:46:56.012] [INFO] app - database name: crud
+[2021-09-28T12:46:56.366] [INFO] app - running on port 3000
+[2021-09-28T12:46:56.389] [INFO] app - database connected
+[2021-09-28T12:46:56.390] [INFO] app - connection intialized 
+[2021-09-28T12:46:56.772] [INFO] app - Get all API success
+[2021-09-28T12:46:56.772] [INFO] app - database status in get api:
+[2021-09-28T12:46:56.781] [ERROR] app -  Error: Invalid Chai property: toBe. Did you mean "to"?
+    at Object.proxyGetter [as get] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\chai\lib\chai\utils\proxify.js:75:17)
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:28:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-09-28T12:47:35.634] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:47:35.636] [INFO] app - port : 27017
+[2021-09-28T12:47:35.636] [INFO] app - database name: crud
+[2021-09-28T12:47:36.042] [INFO] app - running on port 3000
+[2021-09-28T12:47:36.066] [INFO] app - database connected
+[2021-09-28T12:47:36.066] [INFO] app - connection intialized 
+[2021-09-28T12:47:36.459] [INFO] app - Get all API success
+[2021-09-28T12:47:36.459] [INFO] app - database status in get api:
+[2021-09-28T12:47:36.467] [ERROR] app -  TypeError: expect(...).to is not a function
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:28:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-09-28T12:52:26.306] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:52:26.307] [INFO] app - port : 27017
+[2021-09-28T12:52:26.307] [INFO] app - database name: crud
+[2021-09-28T12:52:26.322] [INFO] app - running on port 3000
+[2021-09-28T12:52:26.385] [INFO] app - database connected
+[2021-09-28T12:52:26.385] [INFO] app - connection intialized 
+[2021-09-28T12:53:50.805] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:53:50.806] [INFO] app - port : 27017
+[2021-09-28T12:53:50.806] [INFO] app - database name: crud
+[2021-09-28T12:53:51.045] [INFO] app - running on port 3000
+[2021-09-28T12:53:51.080] [INFO] app - database connected
+[2021-09-28T12:53:51.084] [INFO] app - connection intialized 
+[2021-09-28T12:53:51.475] [ERROR] app -  ReferenceError: chai is not defined
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:27:26)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+[2021-09-28T12:54:28.403] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:54:28.404] [INFO] app - port : 27017
+[2021-09-28T12:54:28.404] [INFO] app - database name: crud
+[2021-09-28T12:54:28.640] [INFO] app - running on port 3000
+[2021-09-28T12:54:28.662] [INFO] app - database connected
+[2021-09-28T12:54:28.663] [INFO] app - connection intialized 
+[2021-09-28T12:54:29.035] [INFO] app - Get all API success
+[2021-09-28T12:54:29.035] [INFO] app - database status in get api:
+[2021-09-28T12:54:29.046] [ERROR] app -  JestAssertionError: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m123[39m
+Received: [31m200[39m
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  matcherResult: {
+    actual: 200,
+    expected: 123,
+    message: '\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n' +
+      '\n' +
+      'Expected: \u001b[32m123\u001b[39m\n' +
+      'Received: \u001b[31m200\u001b[39m',
+    name: 'toBe',
+    pass: false
+  }
+}
+[2021-09-28T12:54:48.709] [INFO] app - host : mongodb://localhost
+[2021-09-28T12:54:48.710] [INFO] app - port : 27017
+[2021-09-28T12:54:48.711] [INFO] app - database name: crud
+[2021-09-28T12:54:48.938] [INFO] app - running on port 3000
+[2021-09-28T12:54:48.972] [INFO] app - database connected
+[2021-09-28T12:54:48.972] [INFO] app - connection intialized 
+[2021-09-28T12:54:49.363] [INFO] app - Get all API success
+[2021-09-28T12:54:49.363] [INFO] app - database status in get api:
+[2021-09-28T13:21:33.988] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:21:33.989] [INFO] app - port : 27017
+[2021-09-28T13:21:33.990] [INFO] app - database name: crud
+[2021-09-28T13:21:34.288] [INFO] app - running on port 3000
+[2021-09-28T13:21:34.311] [INFO] app - database connected
+[2021-09-28T13:21:34.311] [INFO] app - connection intialized 
+[2021-09-28T13:21:35.697] [INFO] app - Get all API success
+[2021-09-28T13:21:35.697] [INFO] app - database status in get api:
+[2021-09-28T13:21:57.718] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:21:57.719] [INFO] app - port : 27017
+[2021-09-28T13:21:57.719] [INFO] app - database name: crud
+[2021-09-28T13:21:57.935] [INFO] app - running on port 3000
+[2021-09-28T13:21:57.971] [INFO] app - database connected
+[2021-09-28T13:21:57.971] [INFO] app - connection intialized 
+[2021-09-28T13:21:58.426] [INFO] app - Get all API success
+[2021-09-28T13:21:58.426] [INFO] app - database status in get api:
+[2021-09-28T13:24:04.870] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:24:04.871] [INFO] app - port : 27017
+[2021-09-28T13:24:04.871] [INFO] app - database name: crud
+[2021-09-28T13:24:05.100] [INFO] app - running on port 3000
+[2021-09-28T13:24:05.123] [INFO] app - database connected
+[2021-09-28T13:24:05.123] [INFO] app - connection intialized 
+[2021-09-28T13:24:05.633] [INFO] app - Get all API success
+[2021-09-28T13:24:05.633] [INFO] app - database status in get api:
+[2021-09-28T13:24:05.776] [INFO] app - add user API success
+[2021-09-28T13:24:05.791] [ERROR] app -  ReferenceError: result is not defined
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:50:20)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-09-28T13:26:59.114] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:26:59.115] [INFO] app - port : 27017
+[2021-09-28T13:26:59.116] [INFO] app - database name: crud
+[2021-09-28T13:26:59.361] [INFO] app - running on port 3000
+[2021-09-28T13:26:59.384] [INFO] app - database connected
+[2021-09-28T13:26:59.384] [INFO] app - connection intialized 
+[2021-09-28T13:26:59.794] [INFO] app - Get all API success
+[2021-09-28T13:26:59.794] [INFO] app - database status in get api:
+[2021-09-28T13:26:59.825] [INFO] app - add user API success
+[2021-09-28T13:29:58.889] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:29:58.890] [INFO] app - port : 27017
+[2021-09-28T13:29:58.890] [INFO] app - database name: crud
+[2021-09-28T13:29:59.120] [INFO] app - running on port 3000
+[2021-09-28T13:29:59.176] [INFO] app - database connected
+[2021-09-28T13:29:59.176] [INFO] app - connection intialized 
+[2021-09-28T13:29:59.620] [INFO] app - Get all API success
+[2021-09-28T13:29:59.620] [INFO] app - database status in get api:
+[2021-09-28T13:29:59.661] [INFO] app - add user API success
+[2021-09-28T13:29:59.680] [ERROR] app -  ReferenceError: userdata is not defined
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:69:25)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+[2021-09-28T13:29:59.727] [INFO] app - view followers API success
+[2021-09-28T13:30:39.084] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:30:39.086] [INFO] app - port : 27017
+[2021-09-28T13:30:39.086] [INFO] app - database name: crud
+[2021-09-28T13:30:39.317] [INFO] app - running on port 3000
+[2021-09-28T13:30:39.345] [INFO] app - database connected
+[2021-09-28T13:30:39.345] [INFO] app - connection intialized 
+[2021-09-28T13:30:39.803] [INFO] app - Get all API success
+[2021-09-28T13:30:39.803] [INFO] app - database status in get api:
+[2021-09-28T13:30:39.834] [INFO] app - add user API success
+[2021-09-28T13:30:39.853] [ERROR] app -  ReferenceError: userdata is not defined
+    at Object.<anonymous> (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\test\db.test.js:69:25)
+    at Promise.then.completed (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:390:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\utils.js:315:10)
+    at _callCircusTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at _runTest (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:60:9)
+    at run (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\jest-circus\build\run.js:25:3)
+[2021-09-28T13:30:39.861] [INFO] app - view followers API success
+[2021-09-28T13:31:51.602] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:31:51.603] [INFO] app - port : 27017
+[2021-09-28T13:31:51.604] [INFO] app - database name: crud
+[2021-09-28T13:31:51.824] [INFO] app - running on port 3000
+[2021-09-28T13:31:51.847] [INFO] app - database connected
+[2021-09-28T13:31:51.848] [INFO] app - connection intialized 
+[2021-09-28T13:31:52.240] [INFO] app - Get all API success
+[2021-09-28T13:31:52.240] [INFO] app - database status in get api:
+[2021-09-28T13:31:52.272] [INFO] app - add user API success
+[2021-09-28T13:31:52.288] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:31:52.314] [INFO] app - view followers API success
+[2021-09-28T13:32:34.217] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:32:34.218] [INFO] app - port : 27017
+[2021-09-28T13:32:34.219] [INFO] app - database name: crud
+[2021-09-28T13:32:34.447] [INFO] app - running on port 3000
+[2021-09-28T13:32:34.489] [INFO] app - database connected
+[2021-09-28T13:32:34.489] [INFO] app - connection intialized 
+[2021-09-28T13:32:34.886] [INFO] app - Get all API success
+[2021-09-28T13:32:34.886] [INFO] app - database status in get api:
+[2021-09-28T13:32:34.916] [INFO] app - add user API success
+[2021-09-28T13:32:34.933] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:32:34.988] [INFO] app - delete user API success
+[2021-09-28T13:32:35.001] [INFO] app - view followers API success
+[2021-09-28T13:33:20.469] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:33:20.470] [INFO] app - port : 27017
+[2021-09-28T13:33:20.471] [INFO] app - database name: crud
+[2021-09-28T13:33:20.725] [INFO] app - running on port 3000
+[2021-09-28T13:33:20.749] [INFO] app - database connected
+[2021-09-28T13:33:20.749] [INFO] app - connection intialized 
+[2021-09-28T13:33:21.176] [INFO] app - Get all API success
+[2021-09-28T13:33:21.176] [INFO] app - database status in get api:
+[2021-09-28T13:33:21.210] [INFO] app - add user API success
+[2021-09-28T13:33:21.216] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:33:21.244] [INFO] app - delete user API success
+[2021-09-28T13:33:21.250] [INFO] app - view followers API success
+[2021-09-28T13:36:40.094] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:36:40.095] [INFO] app - port : 27017
+[2021-09-28T13:36:40.095] [INFO] app - database name: crud
+[2021-09-28T13:36:40.320] [INFO] app - running on port 3000
+[2021-09-28T13:36:40.343] [INFO] app - database connected
+[2021-09-28T13:36:40.343] [INFO] app - connection intialized 
+[2021-09-28T13:36:40.732] [INFO] app - Get all API success
+[2021-09-28T13:36:40.732] [INFO] app - database status in get api:
+[2021-09-28T13:36:40.743] [INFO] app - Get by id API success
+[2021-09-28T13:36:40.770] [INFO] app - add user API success
+[2021-09-28T13:36:40.775] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:36:40.802] [INFO] app - delete user API success
+[2021-09-28T13:36:40.808] [INFO] app - view followers API success
+[2021-09-28T13:38:21.445] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:38:21.446] [INFO] app - port : 27017
+[2021-09-28T13:38:21.446] [INFO] app - database name: crud
+[2021-09-28T13:38:21.672] [INFO] app - running on port 3000
+[2021-09-28T13:38:21.695] [INFO] app - database connected
+[2021-09-28T13:38:21.696] [INFO] app - connection intialized 
+[2021-09-28T13:38:22.122] [INFO] app - Get all API success
+[2021-09-28T13:38:22.123] [INFO] app - database status in get api:
+[2021-09-28T13:38:22.134] [INFO] app - Get by id API success
+[2021-09-28T13:38:22.160] [INFO] app - add user API success
+[2021-09-28T13:38:22.165] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:38:22.191] [INFO] app - delete user API success
+[2021-09-28T13:38:22.197] [INFO] app - view followers API success
+[2021-09-28T13:39:00.937] [INFO] app - host : mongodb://localhost
+[2021-09-28T13:39:00.938] [INFO] app - port : 27017
+[2021-09-28T13:39:00.938] [INFO] app - database name: crud
+[2021-09-28T13:39:01.178] [INFO] app - running on port 3000
+[2021-09-28T13:39:01.203] [INFO] app - database connected
+[2021-09-28T13:39:01.203] [INFO] app - connection intialized 
+[2021-09-28T13:39:01.990] [INFO] app - Get all API success
+[2021-09-28T13:39:01.990] [INFO] app - database status in get api:
+[2021-09-28T13:39:02.007] [INFO] app - Get by id API success
+[2021-09-28T13:39:02.048] [INFO] app - add user API success
+[2021-09-28T13:39:02.068] [ERROR] app - update user API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\bson\src\objectid.ts:87:15)
+    at updateOneUser (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\controllers\userController.js:96:77)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day11\Mongodb InMemory test\node_modules\express\lib\router\index.js:410:3)
+[2021-09-28T13:39:02.099] [INFO] app - delete user API success
+[2021-09-28T13:39:02.107] [INFO] app - view followers API success
