@@ -63,7 +63,7 @@ const showfollowers = async (id) =>
     .collection("users")
     .findOne(
       { _id: new mongodb.ObjectId(id) },
-      { projection: { followers: { _id: 1 } } }
+      { projection: { followers: { $elemMatch } } }
     );
 
 //signup

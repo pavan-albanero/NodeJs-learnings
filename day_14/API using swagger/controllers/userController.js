@@ -185,7 +185,7 @@ addSignup = async (req, res) => {
     const insertResult = await crud.signup(user);
     console.log(insertResult);
     res.json(`${user.email} signup. token:  ${user.token}`);
-    res.status(200);
+    res.status(201);
     logger.info("signup API success");
   } catch (error) {
     res.status(400).json(" signup API failed");

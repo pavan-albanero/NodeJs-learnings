@@ -4777,3 +4777,933 @@
 [2021-09-30T15:37:37.664] [INFO] app - connection intialized 
 [2021-09-30T15:37:37.665] [INFO] app - database connected
 [2021-09-30T15:37:37.665] [INFO] app - connection intialized 
+[2021-09-30T15:54:17.507] [INFO] app - host : mongodb://localhost
+[2021-09-30T15:54:17.509] [INFO] app - port : 27017
+[2021-09-30T15:54:17.509] [INFO] app - database name: crud
+[2021-09-30T15:54:17.629] [INFO] app - Event has been initialized
+[2021-09-30T15:54:18.032] [INFO] app - running on port 3000
+[2021-09-30T15:54:18.045] [INFO] app - database connected
+[2021-09-30T15:54:18.046] [INFO] app - connection intialized 
+[2021-09-30T15:54:18.060] [INFO] app - database connected
+[2021-09-30T15:54:18.060] [INFO] app - connection intialized 
+[2021-09-30T16:02:07.293] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:02:07.295] [INFO] app - port : 27017
+[2021-09-30T16:02:07.295] [INFO] app - database name: crud
+[2021-09-30T16:02:07.384] [INFO] app - Event has been initialized
+[2021-09-30T16:02:07.709] [INFO] app - running on port 3000
+[2021-09-30T16:02:07.722] [INFO] app - database connected
+[2021-09-30T16:02:07.722] [INFO] app - connection intialized 
+[2021-09-30T16:02:07.723] [INFO] app - database connected
+[2021-09-30T16:02:07.723] [INFO] app - connection intialized 
+[2021-09-30T16:02:23.202] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:02:23.204] [INFO] app - port : 27017
+[2021-09-30T16:02:23.204] [INFO] app - database name: crud
+[2021-09-30T16:02:23.297] [INFO] app - Event has been initialized
+[2021-09-30T16:02:23.645] [INFO] app - running on port 3000
+[2021-09-30T16:02:23.658] [INFO] app - database connected
+[2021-09-30T16:02:23.658] [INFO] app - connection intialized 
+[2021-09-30T16:02:23.659] [INFO] app - database connected
+[2021-09-30T16:02:23.659] [INFO] app - connection intialized 
+[2021-09-30T16:05:24.178] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:05:24.180] [INFO] app - port : 27017
+[2021-09-30T16:05:24.180] [INFO] app - database name: crud
+[2021-09-30T16:05:24.280] [INFO] app - Event has been initialized
+[2021-09-30T16:05:24.631] [INFO] app - running on port 3000
+[2021-09-30T16:05:24.643] [INFO] app - database connected
+[2021-09-30T16:05:24.644] [INFO] app - connection intialized 
+[2021-09-30T16:05:24.645] [INFO] app - database connected
+[2021-09-30T16:05:24.645] [INFO] app - connection intialized 
+[2021-09-30T16:05:35.633] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:05:35.634] [INFO] app - port : 27017
+[2021-09-30T16:05:35.634] [INFO] app - database name: crud
+[2021-09-30T16:05:35.741] [INFO] app - Event has been initialized
+[2021-09-30T16:05:36.115] [INFO] app - running on port 3000
+[2021-09-30T16:05:36.128] [INFO] app - database connected
+[2021-09-30T16:05:36.128] [INFO] app - connection intialized 
+[2021-09-30T16:05:36.129] [INFO] app - database connected
+[2021-09-30T16:05:36.129] [INFO] app - connection intialized 
+[2021-09-30T16:07:41.962] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:07:41.963] [INFO] app - port : 27017
+[2021-09-30T16:07:41.963] [INFO] app - database name: crud
+[2021-09-30T16:07:42.063] [INFO] app - Event has been initialized
+[2021-09-30T16:07:42.602] [INFO] app - running on port 3000
+[2021-09-30T16:07:42.616] [INFO] app - database connected
+[2021-09-30T16:07:42.616] [INFO] app - connection intialized 
+[2021-09-30T16:07:42.617] [INFO] app - database connected
+[2021-09-30T16:07:42.617] [INFO] app - connection intialized 
+[2021-09-30T16:13:31.697] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:13:31.699] [INFO] app - port : 27017
+[2021-09-30T16:13:31.700] [INFO] app - database name: crud
+[2021-09-30T16:13:31.838] [INFO] app - Event has been initialized
+[2021-09-30T16:13:32.177] [INFO] app - running on port 3000
+[2021-09-30T16:13:32.189] [INFO] app - database connected
+[2021-09-30T16:13:32.190] [INFO] app - connection intialized 
+[2021-09-30T16:13:32.190] [INFO] app - database connected
+[2021-09-30T16:13:32.190] [INFO] app - connection intialized 
+[2021-09-30T16:14:22.450] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:14:22.452] [INFO] app - port : 27017
+[2021-09-30T16:14:22.452] [INFO] app - database name: crud
+[2021-09-30T16:14:22.554] [INFO] app - Event has been initialized
+[2021-09-30T16:14:22.954] [INFO] app - running on port 3000
+[2021-09-30T16:14:22.969] [INFO] app - database connected
+[2021-09-30T16:14:22.969] [INFO] app - connection intialized 
+[2021-09-30T16:14:22.970] [INFO] app - database connected
+[2021-09-30T16:14:22.970] [INFO] app - connection intialized 
+[2021-09-30T16:48:54.159] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:48:54.163] [INFO] app - port : 27017
+[2021-09-30T16:48:54.163] [INFO] app - database name: crud
+[2021-09-30T16:48:55.621] [INFO] app - Event has been initialized
+[2021-09-30T16:48:59.299] [INFO] app - running on port 3000
+[2021-09-30T16:48:59.329] [INFO] app - database connected
+[2021-09-30T16:48:59.329] [INFO] app - connection intialized 
+[2021-09-30T16:48:59.330] [INFO] app - database connected
+[2021-09-30T16:48:59.330] [INFO] app - connection intialized 
+[2021-09-30T16:49:40.893] [INFO] app - signin API success
+[2021-09-30T16:50:25.093] [INFO] app - Get by id API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\bson\lib\objectid.js:61:23)
+    at Object.findone (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:15:47)
+    at getOneUser (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:29:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+[2021-09-30T16:51:57.127] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:51:57.129] [INFO] app - port : 27017
+[2021-09-30T16:51:57.129] [INFO] app - database name: crud
+[2021-09-30T16:51:57.230] [INFO] app - Event has been initialized
+[2021-09-30T16:51:57.609] [INFO] app - running on port 3000
+[2021-09-30T16:51:57.623] [INFO] app - database connected
+[2021-09-30T16:51:57.623] [INFO] app - connection intialized 
+[2021-09-30T16:51:57.624] [INFO] app - database connected
+[2021-09-30T16:51:57.624] [INFO] app - connection intialized 
+[2021-09-30T16:51:58.605] [INFO] app - Get by id API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\bson\lib\objectid.js:61:23)
+    at Object.findone (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:15:47)
+    at getOneUser (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:29:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+[2021-09-30T16:52:47.196] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:52:47.198] [INFO] app - port : 27017
+[2021-09-30T16:52:47.198] [INFO] app - database name: crud
+[2021-09-30T16:52:47.308] [INFO] app - Event has been initialized
+[2021-09-30T16:52:47.694] [INFO] app - running on port 3000
+[2021-09-30T16:52:47.710] [INFO] app - database connected
+[2021-09-30T16:52:47.710] [INFO] app - connection intialized 
+[2021-09-30T16:52:47.711] [INFO] app - database connected
+[2021-09-30T16:52:47.711] [INFO] app - connection intialized 
+[2021-09-30T16:53:11.984] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:53:11.986] [INFO] app - port : 27017
+[2021-09-30T16:53:11.986] [INFO] app - database name: crud
+[2021-09-30T16:53:12.103] [INFO] app - Event has been initialized
+[2021-09-30T16:53:12.460] [INFO] app - running on port 3000
+[2021-09-30T16:53:12.473] [INFO] app - database connected
+[2021-09-30T16:53:12.473] [INFO] app - connection intialized 
+[2021-09-30T16:53:12.474] [INFO] app - database connected
+[2021-09-30T16:53:12.474] [INFO] app - connection intialized 
+[2021-09-30T16:53:58.965] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:53:58.966] [INFO] app - port : 27017
+[2021-09-30T16:53:58.966] [INFO] app - database name: crud
+[2021-09-30T16:53:59.072] [INFO] app - Event has been initialized
+[2021-09-30T16:53:59.461] [INFO] app - running on port 3000
+[2021-09-30T16:53:59.480] [INFO] app - database connected
+[2021-09-30T16:53:59.480] [INFO] app - connection intialized 
+[2021-09-30T16:53:59.481] [INFO] app - database connected
+[2021-09-30T16:53:59.481] [INFO] app - connection intialized 
+[2021-09-30T16:54:45.604] [INFO] app - Get all API success
+[2021-09-30T16:55:52.796] [INFO] app - host : mongodb://localhost
+[2021-09-30T16:55:52.797] [INFO] app - port : 27017
+[2021-09-30T16:55:52.797] [INFO] app - database name: crud
+[2021-09-30T16:55:52.887] [INFO] app - Event has been initialized
+[2021-09-30T16:55:53.235] [INFO] app - running on port 3000
+[2021-09-30T16:55:53.247] [INFO] app - database connected
+[2021-09-30T16:55:53.247] [INFO] app - connection intialized 
+[2021-09-30T16:55:53.248] [INFO] app - database connected
+[2021-09-30T16:55:53.248] [INFO] app - connection intialized 
+[2021-09-30T17:00:16.254] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:00:16.257] [INFO] app - port : 27017
+[2021-09-30T17:00:16.258] [INFO] app - database name: crud
+[2021-09-30T17:00:16.371] [INFO] app - Event has been initialized
+[2021-09-30T17:00:16.782] [INFO] app - running on port 3000
+[2021-09-30T17:00:16.799] [INFO] app - database connected
+[2021-09-30T17:00:16.799] [INFO] app - connection intialized 
+[2021-09-30T17:00:16.800] [INFO] app - database connected
+[2021-09-30T17:00:16.800] [INFO] app - connection intialized 
+[2021-09-30T17:00:17.538] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:00:17.540] [INFO] app - port : 27017
+[2021-09-30T17:00:17.540] [INFO] app - database name: crud
+[2021-09-30T17:00:17.647] [INFO] app - Event has been initialized
+[2021-09-30T17:00:18.016] [INFO] app - running on port 3000
+[2021-09-30T17:00:18.028] [INFO] app - database connected
+[2021-09-30T17:00:18.028] [INFO] app - connection intialized 
+[2021-09-30T17:00:18.029] [INFO] app - database connected
+[2021-09-30T17:00:18.029] [INFO] app - connection intialized 
+[2021-09-30T17:04:08.447] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:04:08.449] [INFO] app - port : 27017
+[2021-09-30T17:04:08.449] [INFO] app - database name: crud
+[2021-09-30T17:04:08.539] [INFO] app - Event has been initialized
+[2021-09-30T17:04:08.948] [INFO] app - running on port 3000
+[2021-09-30T17:04:08.967] [INFO] app - database connected
+[2021-09-30T17:04:08.967] [INFO] app - connection intialized 
+[2021-09-30T17:04:08.968] [INFO] app - database connected
+[2021-09-30T17:04:08.968] [INFO] app - connection intialized 
+[2021-09-30T17:05:31.157] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:05:31.159] [INFO] app - port : 27017
+[2021-09-30T17:05:31.159] [INFO] app - database name: crud
+[2021-09-30T17:05:31.250] [INFO] app - Event has been initialized
+[2021-09-30T17:05:31.604] [INFO] app - running on port 3000
+[2021-09-30T17:05:31.616] [INFO] app - database connected
+[2021-09-30T17:05:31.616] [INFO] app - connection intialized 
+[2021-09-30T17:05:31.617] [INFO] app - database connected
+[2021-09-30T17:05:31.617] [INFO] app - connection intialized 
+[2021-09-30T17:11:28.689] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:11:28.691] [INFO] app - port : 27017
+[2021-09-30T17:11:28.691] [INFO] app - database name: crud
+[2021-09-30T17:11:28.795] [INFO] app - Event has been initialized
+[2021-09-30T17:11:29.225] [INFO] app - running on port 3000
+[2021-09-30T17:11:29.257] [INFO] app - database connected
+[2021-09-30T17:11:29.258] [INFO] app - connection intialized 
+[2021-09-30T17:11:29.258] [INFO] app - database connected
+[2021-09-30T17:11:29.258] [INFO] app - connection intialized 
+[2021-09-30T17:13:18.899] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:13:18.901] [INFO] app - port : 27017
+[2021-09-30T17:13:18.901] [INFO] app - database name: crud
+[2021-09-30T17:13:18.998] [INFO] app - Event has been initialized
+[2021-09-30T17:13:19.353] [INFO] app - running on port 3000
+[2021-09-30T17:13:19.366] [INFO] app - database connected
+[2021-09-30T17:13:19.367] [INFO] app - connection intialized 
+[2021-09-30T17:13:19.368] [INFO] app - database connected
+[2021-09-30T17:13:19.368] [INFO] app - connection intialized 
+[2021-09-30T17:16:21.542] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:16:21.544] [INFO] app - port : 27017
+[2021-09-30T17:16:21.544] [INFO] app - database name: crud
+[2021-09-30T17:16:21.645] [INFO] app - Event has been initialized
+[2021-09-30T17:16:22.027] [INFO] app - running on port 3000
+[2021-09-30T17:16:22.040] [INFO] app - database connected
+[2021-09-30T17:16:22.040] [INFO] app - connection intialized 
+[2021-09-30T17:16:22.041] [INFO] app - database connected
+[2021-09-30T17:16:22.041] [INFO] app - connection intialized 
+[2021-09-30T17:16:41.545] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:16:41.546] [INFO] app - port : 27017
+[2021-09-30T17:16:41.546] [INFO] app - database name: crud
+[2021-09-30T17:16:41.629] [INFO] app - Event has been initialized
+[2021-09-30T17:16:41.956] [INFO] app - running on port 3000
+[2021-09-30T17:16:41.970] [INFO] app - database connected
+[2021-09-30T17:16:41.970] [INFO] app - connection intialized 
+[2021-09-30T17:16:41.971] [INFO] app - database connected
+[2021-09-30T17:16:41.971] [INFO] app - connection intialized 
+[2021-09-30T17:18:33.032] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:18:33.033] [INFO] app - port : 27017
+[2021-09-30T17:18:33.034] [INFO] app - database name: crud
+[2021-09-30T17:18:33.120] [INFO] app - Event has been initialized
+[2021-09-30T17:18:33.448] [INFO] app - running on port 3000
+[2021-09-30T17:18:33.461] [INFO] app - database connected
+[2021-09-30T17:18:33.461] [INFO] app - connection intialized 
+[2021-09-30T17:18:33.462] [INFO] app - database connected
+[2021-09-30T17:18:33.462] [INFO] app - connection intialized 
+[2021-09-30T17:19:53.786] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:19:53.788] [INFO] app - port : 27017
+[2021-09-30T17:19:53.788] [INFO] app - database name: crud
+[2021-09-30T17:19:53.884] [INFO] app - Event has been initialized
+[2021-09-30T17:19:54.256] [INFO] app - running on port 3000
+[2021-09-30T17:19:54.269] [INFO] app - database connected
+[2021-09-30T17:19:54.270] [INFO] app - connection intialized 
+[2021-09-30T17:19:54.271] [INFO] app - database connected
+[2021-09-30T17:19:54.271] [INFO] app - connection intialized 
+[2021-09-30T17:20:26.226] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:20:26.228] [INFO] app - port : 27017
+[2021-09-30T17:20:26.228] [INFO] app - database name: crud
+[2021-09-30T17:20:26.330] [INFO] app - Event has been initialized
+[2021-09-30T17:20:26.701] [INFO] app - running on port 3000
+[2021-09-30T17:20:26.714] [INFO] app - database connected
+[2021-09-30T17:20:26.714] [INFO] app - connection intialized 
+[2021-09-30T17:20:26.716] [INFO] app - database connected
+[2021-09-30T17:20:26.716] [INFO] app - connection intialized 
+[2021-09-30T17:28:56.074] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:28:56.076] [INFO] app - port : 27017
+[2021-09-30T17:28:56.076] [INFO] app - database name: crud
+[2021-09-30T17:28:56.180] [INFO] app - Event has been initialized
+[2021-09-30T17:28:56.550] [INFO] app - running on port 3000
+[2021-09-30T17:28:56.564] [INFO] app - database connected
+[2021-09-30T17:28:56.564] [INFO] app - connection intialized 
+[2021-09-30T17:28:56.565] [INFO] app - database connected
+[2021-09-30T17:28:56.565] [INFO] app - connection intialized 
+[2021-09-30T17:29:21.993] [INFO] app - host : mongodb://localhost
+[2021-09-30T17:29:21.995] [INFO] app - port : 27017
+[2021-09-30T17:29:21.995] [INFO] app - database name: crud
+[2021-09-30T17:29:22.100] [INFO] app - Event has been initialized
+[2021-09-30T17:29:22.496] [INFO] app - running on port 3000
+[2021-09-30T17:29:22.510] [INFO] app - database connected
+[2021-09-30T17:29:22.510] [INFO] app - connection intialized 
+[2021-09-30T17:29:22.511] [INFO] app - database connected
+[2021-09-30T17:29:22.511] [INFO] app - connection intialized 
+[2021-09-30T18:06:04.960] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:06:04.962] [INFO] app - port : 27017
+[2021-09-30T18:06:04.962] [INFO] app - database name: crud
+[2021-09-30T18:06:05.062] [INFO] app - Event has been initialized
+[2021-09-30T18:06:05.426] [INFO] app - running on port 3000
+[2021-09-30T18:06:05.565] [INFO] app - database connected
+[2021-09-30T18:06:05.565] [INFO] app - connection intialized 
+[2021-09-30T18:06:05.567] [INFO] app - database connected
+[2021-09-30T18:06:05.567] [INFO] app - connection intialized 
+[2021-09-30T18:07:44.671] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:07:44.673] [INFO] app - port : 27017
+[2021-09-30T18:07:44.674] [INFO] app - database name: crud
+[2021-09-30T18:07:44.785] [INFO] app - Event has been initialized
+[2021-09-30T18:07:45.167] [INFO] app - running on port 3000
+[2021-09-30T18:07:45.181] [INFO] app - database connected
+[2021-09-30T18:07:45.181] [INFO] app - connection intialized 
+[2021-09-30T18:07:45.182] [INFO] app - database connected
+[2021-09-30T18:07:45.182] [INFO] app - connection intialized 
+[2021-09-30T18:08:25.843] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:08:25.845] [INFO] app - port : 27017
+[2021-09-30T18:08:25.846] [INFO] app - database name: crud
+[2021-09-30T18:08:25.966] [INFO] app - Event has been initialized
+[2021-09-30T18:08:26.339] [INFO] app - running on port 3000
+[2021-09-30T18:08:26.352] [INFO] app - database connected
+[2021-09-30T18:08:26.352] [INFO] app - connection intialized 
+[2021-09-30T18:08:26.353] [INFO] app - database connected
+[2021-09-30T18:08:26.353] [INFO] app - connection intialized 
+[2021-09-30T18:08:47.460] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:08:47.462] [INFO] app - port : 27017
+[2021-09-30T18:08:47.462] [INFO] app - database name: crud
+[2021-09-30T18:08:47.558] [INFO] app - Event has been initialized
+[2021-09-30T18:08:47.925] [INFO] app - running on port 3000
+[2021-09-30T18:08:47.938] [INFO] app - database connected
+[2021-09-30T18:08:47.938] [INFO] app - connection intialized 
+[2021-09-30T18:08:47.939] [INFO] app - database connected
+[2021-09-30T18:08:47.939] [INFO] app - connection intialized 
+[2021-09-30T18:08:58.178] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:08:58.181] [INFO] app - port : 27017
+[2021-09-30T18:08:58.181] [INFO] app - database name: crud
+[2021-09-30T18:08:58.282] [INFO] app - Event has been initialized
+[2021-09-30T18:08:58.648] [INFO] app - running on port 3000
+[2021-09-30T18:08:58.666] [INFO] app - database connected
+[2021-09-30T18:08:58.666] [INFO] app - connection intialized 
+[2021-09-30T18:08:58.667] [INFO] app - database connected
+[2021-09-30T18:08:58.667] [INFO] app - connection intialized 
+[2021-09-30T18:09:40.777] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:09:40.779] [INFO] app - port : 27017
+[2021-09-30T18:09:40.779] [INFO] app - database name: crud
+[2021-09-30T18:09:40.879] [INFO] app - Event has been initialized
+[2021-09-30T18:09:41.234] [INFO] app - running on port 3000
+[2021-09-30T18:09:41.249] [INFO] app - database connected
+[2021-09-30T18:09:41.249] [INFO] app - connection intialized 
+[2021-09-30T18:09:41.250] [INFO] app - database connected
+[2021-09-30T18:09:41.250] [INFO] app - connection intialized 
+[2021-09-30T18:09:54.911] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:09:54.913] [INFO] app - port : 27017
+[2021-09-30T18:09:54.913] [INFO] app - database name: crud
+[2021-09-30T18:09:55.023] [INFO] app - Event has been initialized
+[2021-09-30T18:09:55.459] [INFO] app - running on port 3000
+[2021-09-30T18:09:55.475] [INFO] app - database connected
+[2021-09-30T18:09:55.475] [INFO] app - connection intialized 
+[2021-09-30T18:09:55.477] [INFO] app - database connected
+[2021-09-30T18:09:55.477] [INFO] app - connection intialized 
+[2021-09-30T18:10:53.614] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:10:53.616] [INFO] app - port : 27017
+[2021-09-30T18:10:53.616] [INFO] app - database name: crud
+[2021-09-30T18:10:53.706] [INFO] app - Event has been initialized
+[2021-09-30T18:10:54.050] [INFO] app - running on port 3000
+[2021-09-30T18:10:54.063] [INFO] app - database connected
+[2021-09-30T18:10:54.063] [INFO] app - connection intialized 
+[2021-09-30T18:10:54.064] [INFO] app - database connected
+[2021-09-30T18:10:54.064] [INFO] app - connection intialized 
+[2021-09-30T18:11:07.266] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:11:07.268] [INFO] app - port : 27017
+[2021-09-30T18:11:07.268] [INFO] app - database name: crud
+[2021-09-30T18:11:07.370] [INFO] app - Event has been initialized
+[2021-09-30T18:11:07.749] [INFO] app - running on port 3000
+[2021-09-30T18:11:07.761] [INFO] app - database connected
+[2021-09-30T18:11:07.761] [INFO] app - connection intialized 
+[2021-09-30T18:11:07.763] [INFO] app - database connected
+[2021-09-30T18:11:07.763] [INFO] app - connection intialized 
+[2021-09-30T18:11:23.853] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:11:23.855] [INFO] app - port : 27017
+[2021-09-30T18:11:23.855] [INFO] app - database name: crud
+[2021-09-30T18:11:23.949] [INFO] app - Event has been initialized
+[2021-09-30T18:11:24.347] [INFO] app - running on port 3000
+[2021-09-30T18:11:24.360] [INFO] app - database connected
+[2021-09-30T18:11:24.361] [INFO] app - connection intialized 
+[2021-09-30T18:11:24.361] [INFO] app - database connected
+[2021-09-30T18:11:24.362] [INFO] app - connection intialized 
+[2021-09-30T18:56:35.958] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:56:35.960] [INFO] app - port : 27017
+[2021-09-30T18:56:35.961] [INFO] app - database name: crud
+[2021-09-30T18:56:37.345] [INFO] app - Event has been initialized
+[2021-09-30T18:56:40.947] [INFO] app - running on port 3000
+[2021-09-30T18:56:41.008] [INFO] app - database connected
+[2021-09-30T18:56:41.008] [INFO] app - connection intialized 
+[2021-09-30T18:56:41.009] [INFO] app - database connected
+[2021-09-30T18:56:41.009] [INFO] app - connection intialized 
+[2021-09-30T18:58:50.512] [INFO] app - host : mongodb://localhost
+[2021-09-30T18:58:50.514] [INFO] app - port : 27017
+[2021-09-30T18:58:50.514] [INFO] app - database name: crud
+[2021-09-30T18:58:50.613] [INFO] app - Event has been initialized
+[2021-09-30T18:58:50.981] [INFO] app - running on port 3000
+[2021-09-30T18:58:50.994] [INFO] app - database connected
+[2021-09-30T18:58:50.994] [INFO] app - connection intialized 
+[2021-09-30T18:58:50.995] [INFO] app - database connected
+[2021-09-30T18:58:50.995] [INFO] app - connection intialized 
+[2021-09-30T19:00:04.384] [INFO] app - host : mongodb://localhost
+[2021-09-30T19:00:04.386] [INFO] app - port : 27017
+[2021-09-30T19:00:04.386] [INFO] app - database name: crud
+[2021-09-30T19:00:04.474] [INFO] app - Event has been initialized
+[2021-09-30T19:00:04.808] [INFO] app - running on port 3000
+[2021-09-30T19:00:04.821] [INFO] app - database connected
+[2021-09-30T19:00:04.822] [INFO] app - connection intialized 
+[2021-09-30T19:00:04.823] [INFO] app - database connected
+[2021-09-30T19:00:04.823] [INFO] app - connection intialized 
+[2021-09-30T19:01:17.361] [INFO] app - host : mongodb://localhost
+[2021-09-30T19:01:17.362] [INFO] app - port : 27017
+[2021-09-30T19:01:17.363] [INFO] app - database name: crud
+[2021-09-30T19:01:17.470] [INFO] app - Event has been initialized
+[2021-09-30T19:01:17.847] [INFO] app - running on port 3000
+[2021-09-30T19:01:17.860] [INFO] app - database connected
+[2021-09-30T19:01:17.860] [INFO] app - connection intialized 
+[2021-09-30T19:01:17.861] [INFO] app - database connected
+[2021-09-30T19:01:17.861] [INFO] app - connection intialized 
+[2021-09-30T21:13:02.345] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:13:02.382] [INFO] app - port : 27017
+[2021-09-30T21:13:02.382] [INFO] app - database name: crud
+[2021-09-30T21:13:03.601] [INFO] app - Event has been initialized
+[2021-09-30T21:13:05.849] [INFO] app - running on port 3000
+[2021-09-30T21:13:05.874] [INFO] app - database connected
+[2021-09-30T21:13:05.874] [INFO] app - connection intialized 
+[2021-09-30T21:13:05.875] [INFO] app - database connected
+[2021-09-30T21:13:05.875] [INFO] app - connection intialized 
+[2021-09-30T21:13:43.737] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:13:43.739] [INFO] app - port : 27017
+[2021-09-30T21:13:43.740] [INFO] app - database name: crud
+[2021-09-30T21:13:43.832] [INFO] app - Event has been initialized
+[2021-09-30T21:13:44.201] [INFO] app - running on port 3000
+[2021-09-30T21:13:44.221] [INFO] app - database connected
+[2021-09-30T21:13:44.221] [INFO] app - connection intialized 
+[2021-09-30T21:13:44.222] [INFO] app - database connected
+[2021-09-30T21:13:44.222] [INFO] app - connection intialized 
+[2021-09-30T21:14:00.601] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:14:00.603] [INFO] app - port : 27017
+[2021-09-30T21:14:00.603] [INFO] app - database name: crud
+[2021-09-30T21:14:00.728] [INFO] app - Event has been initialized
+[2021-09-30T21:14:01.095] [INFO] app - running on port 3000
+[2021-09-30T21:14:01.109] [INFO] app - database connected
+[2021-09-30T21:14:01.109] [INFO] app - connection intialized 
+[2021-09-30T21:14:01.110] [INFO] app - database connected
+[2021-09-30T21:14:01.110] [INFO] app - connection intialized 
+[2021-09-30T21:15:55.655] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:15:55.656] [INFO] app - port : 27017
+[2021-09-30T21:15:55.656] [INFO] app - database name: crud
+[2021-09-30T21:15:55.772] [INFO] app - Event has been initialized
+[2021-09-30T21:15:56.148] [INFO] app - running on port 3000
+[2021-09-30T21:15:56.161] [INFO] app - database connected
+[2021-09-30T21:15:56.161] [INFO] app - connection intialized 
+[2021-09-30T21:15:56.162] [INFO] app - database connected
+[2021-09-30T21:15:56.162] [INFO] app - connection intialized 
+[2021-09-30T21:16:43.007] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:16:43.008] [INFO] app - port : 27017
+[2021-09-30T21:16:43.009] [INFO] app - database name: crud
+[2021-09-30T21:16:43.126] [INFO] app - Event has been initialized
+[2021-09-30T21:16:43.520] [INFO] app - running on port 3000
+[2021-09-30T21:16:43.535] [INFO] app - database connected
+[2021-09-30T21:16:43.535] [INFO] app - connection intialized 
+[2021-09-30T21:16:43.535] [INFO] app - database connected
+[2021-09-30T21:16:43.536] [INFO] app - connection intialized 
+[2021-09-30T21:16:55.556] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:16:55.558] [INFO] app - port : 27017
+[2021-09-30T21:16:55.558] [INFO] app - database name: crud
+[2021-09-30T21:16:55.657] [INFO] app - Event has been initialized
+[2021-09-30T21:16:56.032] [INFO] app - running on port 3000
+[2021-09-30T21:16:56.046] [INFO] app - database connected
+[2021-09-30T21:16:56.046] [INFO] app - connection intialized 
+[2021-09-30T21:16:56.047] [INFO] app - database connected
+[2021-09-30T21:16:56.048] [INFO] app - connection intialized 
+[2021-09-30T21:17:07.421] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:17:07.423] [INFO] app - port : 27017
+[2021-09-30T21:17:07.423] [INFO] app - database name: crud
+[2021-09-30T21:17:07.515] [INFO] app - Event has been initialized
+[2021-09-30T21:17:07.851] [INFO] app - running on port 3000
+[2021-09-30T21:17:07.864] [INFO] app - database connected
+[2021-09-30T21:17:07.865] [INFO] app - connection intialized 
+[2021-09-30T21:17:07.865] [INFO] app - database connected
+[2021-09-30T21:17:07.865] [INFO] app - connection intialized 
+[2021-09-30T21:17:58.185] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:17:58.187] [INFO] app - port : 27017
+[2021-09-30T21:17:58.187] [INFO] app - database name: crud
+[2021-09-30T21:17:58.277] [INFO] app - Event has been initialized
+[2021-09-30T21:17:58.617] [INFO] app - running on port 3000
+[2021-09-30T21:17:58.632] [INFO] app - database connected
+[2021-09-30T21:17:58.632] [INFO] app - connection intialized 
+[2021-09-30T21:17:58.633] [INFO] app - database connected
+[2021-09-30T21:17:58.633] [INFO] app - connection intialized 
+[2021-09-30T21:19:02.711] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:19:02.713] [INFO] app - port : 27017
+[2021-09-30T21:19:02.714] [INFO] app - database name: crud
+[2021-09-30T21:19:02.814] [INFO] app - Event has been initialized
+[2021-09-30T21:19:03.159] [INFO] app - running on port 3000
+[2021-09-30T21:19:03.175] [INFO] app - database connected
+[2021-09-30T21:19:03.175] [INFO] app - connection intialized 
+[2021-09-30T21:19:03.176] [INFO] app - database connected
+[2021-09-30T21:19:03.176] [INFO] app - connection intialized 
+[2021-09-30T21:25:21.713] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:25:21.715] [INFO] app - port : 27017
+[2021-09-30T21:25:21.715] [INFO] app - database name: crud
+[2021-09-30T21:25:21.802] [INFO] app - Event has been initialized
+[2021-09-30T21:25:22.171] [INFO] app - running on port 3000
+[2021-09-30T21:25:22.185] [INFO] app - database connected
+[2021-09-30T21:25:22.185] [INFO] app - connection intialized 
+[2021-09-30T21:25:22.187] [INFO] app - database connected
+[2021-09-30T21:25:22.187] [INFO] app - connection intialized 
+[2021-09-30T21:26:50.141] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:26:50.143] [INFO] app - port : 27017
+[2021-09-30T21:26:50.143] [INFO] app - database name: crud
+[2021-09-30T21:26:50.233] [INFO] app - Event has been initialized
+[2021-09-30T21:26:50.563] [INFO] app - running on port 3000
+[2021-09-30T21:26:50.576] [INFO] app - database connected
+[2021-09-30T21:26:50.576] [INFO] app - connection intialized 
+[2021-09-30T21:26:50.577] [INFO] app - database connected
+[2021-09-30T21:26:50.577] [INFO] app - connection intialized 
+[2021-09-30T21:27:20.433] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:27:20.434] [INFO] app - port : 27017
+[2021-09-30T21:27:20.434] [INFO] app - database name: crud
+[2021-09-30T21:27:20.524] [INFO] app - Event has been initialized
+[2021-09-30T21:27:20.880] [INFO] app - running on port 3000
+[2021-09-30T21:27:20.894] [INFO] app - database connected
+[2021-09-30T21:27:20.894] [INFO] app - connection intialized 
+[2021-09-30T21:27:20.895] [INFO] app - database connected
+[2021-09-30T21:27:20.895] [INFO] app - connection intialized 
+[2021-09-30T21:27:28.182] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:27:28.184] [INFO] app - port : 27017
+[2021-09-30T21:27:28.184] [INFO] app - database name: crud
+[2021-09-30T21:27:28.283] [INFO] app - Event has been initialized
+[2021-09-30T21:27:28.626] [INFO] app - running on port 3000
+[2021-09-30T21:27:28.638] [INFO] app - database connected
+[2021-09-30T21:27:28.638] [INFO] app - connection intialized 
+[2021-09-30T21:27:28.639] [INFO] app - database connected
+[2021-09-30T21:27:28.639] [INFO] app - connection intialized 
+[2021-09-30T21:29:54.672] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:29:54.674] [INFO] app - port : 27017
+[2021-09-30T21:29:54.674] [INFO] app - database name: crud
+[2021-09-30T21:29:54.783] [INFO] app - Event has been initialized
+[2021-09-30T21:29:55.164] [INFO] app - running on port 3000
+[2021-09-30T21:29:55.182] [INFO] app - database connected
+[2021-09-30T21:29:55.182] [INFO] app - connection intialized 
+[2021-09-30T21:29:55.183] [INFO] app - database connected
+[2021-09-30T21:29:55.183] [INFO] app - connection intialized 
+[2021-09-30T21:31:41.903] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:31:41.904] [INFO] app - port : 27017
+[2021-09-30T21:31:41.905] [INFO] app - database name: crud
+[2021-09-30T21:31:42.000] [INFO] app - Event has been initialized
+[2021-09-30T21:31:42.348] [INFO] app - running on port 3000
+[2021-09-30T21:31:42.361] [INFO] app - database connected
+[2021-09-30T21:31:42.361] [INFO] app - connection intialized 
+[2021-09-30T21:31:42.362] [INFO] app - database connected
+[2021-09-30T21:31:42.362] [INFO] app - connection intialized 
+[2021-09-30T21:32:44.251] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:32:44.252] [INFO] app - port : 27017
+[2021-09-30T21:32:44.253] [INFO] app - database name: crud
+[2021-09-30T21:32:44.341] [INFO] app - Event has been initialized
+[2021-09-30T21:32:44.674] [INFO] app - running on port 3000
+[2021-09-30T21:32:44.687] [INFO] app - database connected
+[2021-09-30T21:32:44.687] [INFO] app - connection intialized 
+[2021-09-30T21:32:44.688] [INFO] app - database connected
+[2021-09-30T21:32:44.688] [INFO] app - connection intialized 
+[2021-09-30T21:33:11.635] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:33:11.637] [INFO] app - port : 27017
+[2021-09-30T21:33:11.637] [INFO] app - database name: crud
+[2021-09-30T21:33:11.734] [INFO] app - Event has been initialized
+[2021-09-30T21:33:12.098] [INFO] app - running on port 3000
+[2021-09-30T21:33:12.110] [INFO] app - database connected
+[2021-09-30T21:33:12.110] [INFO] app - connection intialized 
+[2021-09-30T21:33:12.112] [INFO] app - database connected
+[2021-09-30T21:33:12.112] [INFO] app - connection intialized 
+[2021-09-30T21:34:28.305] [INFO] app - signin API success
+[2021-09-30T21:34:31.054] [INFO] app - signin API success
+[2021-09-30T21:37:13.552] [INFO] app - signin API success
+[2021-09-30T21:37:30.719] [INFO] app - signin API success
+[2021-09-30T21:38:06.357] [INFO] app - Get all API success
+[2021-09-30T21:38:21.779] [INFO] app - Get by id API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\bson\lib\objectid.js:61:23)
+    at Object.findone (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:15:47)
+    at getOneUser (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:29:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+[2021-09-30T21:38:25.778] [INFO] app - Get by id API failed: TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters
+    at new ObjectId (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\bson\lib\objectid.js:61:23)
+    at Object.findone (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:15:47)
+    at getOneUser (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:29:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+[2021-09-30T21:42:41.148] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:42:41.155] [INFO] app - port : 27017
+[2021-09-30T21:42:41.155] [INFO] app - database name: crud
+[2021-09-30T21:42:41.812] [INFO] app - Event has been initialized
+[2021-09-30T21:42:44.178] [INFO] app - running on port 3000
+[2021-09-30T21:42:44.223] [INFO] app - database connected
+[2021-09-30T21:42:44.224] [INFO] app - connection intialized 
+[2021-09-30T21:42:44.225] [INFO] app - database connected
+[2021-09-30T21:42:44.225] [INFO] app - connection intialized 
+[2021-09-30T21:43:24.070] [INFO] app - Get by id API success
+[2021-09-30T21:51:26.032] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:51:26.034] [INFO] app - port : 27017
+[2021-09-30T21:51:26.034] [INFO] app - database name: crud
+[2021-09-30T21:51:26.128] [INFO] app - Event has been initialized
+[2021-09-30T21:51:26.521] [INFO] app - running on port 3000
+[2021-09-30T21:51:26.536] [INFO] app - database connected
+[2021-09-30T21:51:26.536] [INFO] app - connection intialized 
+[2021-09-30T21:51:26.537] [INFO] app - database connected
+[2021-09-30T21:51:26.537] [INFO] app - connection intialized 
+[2021-09-30T21:51:39.579] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:51:39.580] [INFO] app - port : 27017
+[2021-09-30T21:51:39.581] [INFO] app - database name: crud
+[2021-09-30T21:51:39.680] [INFO] app - Event has been initialized
+[2021-09-30T21:51:40.059] [INFO] app - running on port 3000
+[2021-09-30T21:51:40.072] [INFO] app - database connected
+[2021-09-30T21:51:40.072] [INFO] app - connection intialized 
+[2021-09-30T21:51:40.073] [INFO] app - database connected
+[2021-09-30T21:51:40.073] [INFO] app - connection intialized 
+[2021-09-30T21:53:41.937] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:53:41.939] [INFO] app - port : 27017
+[2021-09-30T21:53:41.939] [INFO] app - database name: crud
+[2021-09-30T21:53:42.031] [INFO] app - Event has been initialized
+[2021-09-30T21:53:42.379] [INFO] app - running on port 3000
+[2021-09-30T21:53:42.391] [INFO] app - database connected
+[2021-09-30T21:53:42.391] [INFO] app - connection intialized 
+[2021-09-30T21:53:42.393] [INFO] app - database connected
+[2021-09-30T21:53:42.393] [INFO] app - connection intialized 
+[2021-09-30T21:58:08.227] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:58:08.230] [INFO] app - port : 27017
+[2021-09-30T21:58:08.230] [INFO] app - database name: crud
+[2021-09-30T21:58:08.328] [INFO] app - Event has been initialized
+[2021-09-30T21:58:08.706] [INFO] app - running on port 3000
+[2021-09-30T21:58:08.720] [INFO] app - database connected
+[2021-09-30T21:58:08.721] [INFO] app - connection intialized 
+[2021-09-30T21:58:08.721] [INFO] app - database connected
+[2021-09-30T21:58:08.722] [INFO] app - connection intialized 
+[2021-09-30T21:59:23.601] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:59:23.603] [INFO] app - port : 27017
+[2021-09-30T21:59:23.603] [INFO] app - database name: crud
+[2021-09-30T21:59:23.696] [INFO] app - Event has been initialized
+[2021-09-30T21:59:24.056] [INFO] app - running on port 3000
+[2021-09-30T21:59:24.072] [INFO] app - database connected
+[2021-09-30T21:59:24.072] [INFO] app - connection intialized 
+[2021-09-30T21:59:24.073] [INFO] app - database connected
+[2021-09-30T21:59:24.073] [INFO] app - connection intialized 
+[2021-09-30T21:59:56.871] [INFO] app - host : mongodb://localhost
+[2021-09-30T21:59:56.873] [INFO] app - port : 27017
+[2021-09-30T21:59:56.873] [INFO] app - database name: crud
+[2021-09-30T21:59:56.967] [INFO] app - Event has been initialized
+[2021-09-30T21:59:57.358] [INFO] app - running on port 3000
+[2021-09-30T21:59:57.372] [INFO] app - database connected
+[2021-09-30T21:59:57.372] [INFO] app - connection intialized 
+[2021-09-30T21:59:57.373] [INFO] app - database connected
+[2021-09-30T21:59:57.373] [INFO] app - connection intialized 
+[2021-09-30T22:00:34.741] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:00:34.743] [INFO] app - port : 27017
+[2021-09-30T22:00:34.743] [INFO] app - database name: crud
+[2021-09-30T22:00:34.836] [INFO] app - Event has been initialized
+[2021-09-30T22:00:35.172] [INFO] app - running on port 3000
+[2021-09-30T22:00:35.185] [INFO] app - database connected
+[2021-09-30T22:00:35.185] [INFO] app - connection intialized 
+[2021-09-30T22:00:35.186] [INFO] app - database connected
+[2021-09-30T22:00:35.186] [INFO] app - connection intialized 
+[2021-09-30T22:02:18.299] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:02:18.301] [INFO] app - port : 27017
+[2021-09-30T22:02:18.301] [INFO] app - database name: crud
+[2021-09-30T22:02:18.397] [INFO] app - Event has been initialized
+[2021-09-30T22:02:18.851] [INFO] app - running on port 3000
+[2021-09-30T22:02:18.868] [INFO] app - database connected
+[2021-09-30T22:02:18.868] [INFO] app - connection intialized 
+[2021-09-30T22:02:18.869] [INFO] app - database connected
+[2021-09-30T22:02:18.869] [INFO] app - connection intialized 
+[2021-09-30T22:02:45.484] [INFO] app - signup API success
+[2021-09-30T22:04:31.922] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:04:31.924] [INFO] app - port : 27017
+[2021-09-30T22:04:31.924] [INFO] app - database name: crud
+[2021-09-30T22:04:32.025] [INFO] app - Event has been initialized
+[2021-09-30T22:04:32.416] [INFO] app - running on port 3000
+[2021-09-30T22:04:32.432] [INFO] app - database connected
+[2021-09-30T22:04:32.433] [INFO] app - connection intialized 
+[2021-09-30T22:04:32.434] [INFO] app - database connected
+[2021-09-30T22:04:32.434] [INFO] app - connection intialized 
+[2021-09-30T22:04:49.975] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:04:49.977] [INFO] app - port : 27017
+[2021-09-30T22:04:49.977] [INFO] app - database name: crud
+[2021-09-30T22:04:50.087] [INFO] app - Event has been initialized
+[2021-09-30T22:04:50.476] [INFO] app - running on port 3000
+[2021-09-30T22:04:50.490] [INFO] app - database connected
+[2021-09-30T22:04:50.490] [INFO] app - connection intialized 
+[2021-09-30T22:04:50.491] [INFO] app - database connected
+[2021-09-30T22:04:50.491] [INFO] app - connection intialized 
+[2021-09-30T22:07:41.331] [INFO] app - Get all API success
+[2021-09-30T22:09:04.251] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:09:04.253] [INFO] app - port : 27017
+[2021-09-30T22:09:04.253] [INFO] app - database name: crud
+[2021-09-30T22:09:04.349] [INFO] app - Event has been initialized
+[2021-09-30T22:09:04.797] [INFO] app - running on port 3000
+[2021-09-30T22:09:04.809] [INFO] app - database connected
+[2021-09-30T22:09:04.809] [INFO] app - connection intialized 
+[2021-09-30T22:09:04.810] [INFO] app - database connected
+[2021-09-30T22:09:04.810] [INFO] app - connection intialized 
+[2021-09-30T22:09:56.718] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:09:56.720] [INFO] app - port : 27017
+[2021-09-30T22:09:56.720] [INFO] app - database name: crud
+[2021-09-30T22:09:56.808] [INFO] app - Event has been initialized
+[2021-09-30T22:09:57.151] [INFO] app - running on port 3000
+[2021-09-30T22:09:57.165] [INFO] app - database connected
+[2021-09-30T22:09:57.165] [INFO] app - connection intialized 
+[2021-09-30T22:09:57.166] [INFO] app - database connected
+[2021-09-30T22:09:57.167] [INFO] app - connection intialized 
+[2021-09-30T22:12:20.786] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:12:20.788] [INFO] app - port : 27017
+[2021-09-30T22:12:20.788] [INFO] app - database name: crud
+[2021-09-30T22:12:20.882] [INFO] app - Event has been initialized
+[2021-09-30T22:12:21.248] [INFO] app - running on port 3000
+[2021-09-30T22:12:21.261] [INFO] app - database connected
+[2021-09-30T22:12:21.261] [INFO] app - connection intialized 
+[2021-09-30T22:12:21.262] [INFO] app - database connected
+[2021-09-30T22:12:21.262] [INFO] app - connection intialized 
+[2021-09-30T22:13:28.661] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:13:28.664] [INFO] app - port : 27017
+[2021-09-30T22:13:28.664] [INFO] app - database name: crud
+[2021-09-30T22:13:28.764] [INFO] app - Event has been initialized
+[2021-09-30T22:13:29.153] [INFO] app - running on port 3000
+[2021-09-30T22:13:29.166] [INFO] app - database connected
+[2021-09-30T22:13:29.166] [INFO] app - connection intialized 
+[2021-09-30T22:13:29.167] [INFO] app - database connected
+[2021-09-30T22:13:29.167] [INFO] app - connection intialized 
+[2021-09-30T22:19:52.664] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:19:52.666] [INFO] app - port : 27017
+[2021-09-30T22:19:52.666] [INFO] app - database name: crud
+[2021-09-30T22:19:52.773] [INFO] app - Event has been initialized
+[2021-09-30T22:19:53.167] [INFO] app - running on port 3000
+[2021-09-30T22:19:53.181] [INFO] app - database connected
+[2021-09-30T22:19:53.181] [INFO] app - connection intialized 
+[2021-09-30T22:19:53.182] [INFO] app - database connected
+[2021-09-30T22:19:53.182] [INFO] app - connection intialized 
+[2021-09-30T22:21:00.970] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:21:00.972] [INFO] app - port : 27017
+[2021-09-30T22:21:00.972] [INFO] app - database name: crud
+[2021-09-30T22:21:01.070] [INFO] app - Event has been initialized
+[2021-09-30T22:21:01.783] [INFO] app - running on port 3000
+[2021-09-30T22:21:01.802] [INFO] app - database connected
+[2021-09-30T22:21:01.802] [INFO] app - connection intialized 
+[2021-09-30T22:21:01.805] [INFO] app - database connected
+[2021-09-30T22:21:01.805] [INFO] app - connection intialized 
+[2021-09-30T22:22:40.489] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:22:40.491] [INFO] app - port : 27017
+[2021-09-30T22:22:40.491] [INFO] app - database name: crud
+[2021-09-30T22:22:40.597] [INFO] app - Event has been initialized
+[2021-09-30T22:22:40.984] [INFO] app - running on port 3000
+[2021-09-30T22:22:41.001] [INFO] app - database connected
+[2021-09-30T22:22:41.002] [INFO] app - connection intialized 
+[2021-09-30T22:22:41.003] [INFO] app - database connected
+[2021-09-30T22:22:41.003] [INFO] app - connection intialized 
+[2021-09-30T22:22:53.533] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:22:53.534] [INFO] app - port : 27017
+[2021-09-30T22:22:53.534] [INFO] app - database name: crud
+[2021-09-30T22:22:53.638] [INFO] app - Event has been initialized
+[2021-09-30T22:22:54.058] [INFO] app - running on port 3000
+[2021-09-30T22:22:54.077] [INFO] app - database connected
+[2021-09-30T22:22:54.077] [INFO] app - connection intialized 
+[2021-09-30T22:22:54.079] [INFO] app - database connected
+[2021-09-30T22:22:54.079] [INFO] app - connection intialized 
+[2021-09-30T22:24:17.126] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:24:17.128] [INFO] app - port : 27017
+[2021-09-30T22:24:17.128] [INFO] app - database name: crud
+[2021-09-30T22:24:17.226] [INFO] app - Event has been initialized
+[2021-09-30T22:24:17.586] [INFO] app - running on port 3000
+[2021-09-30T22:24:17.598] [INFO] app - database connected
+[2021-09-30T22:24:17.598] [INFO] app - connection intialized 
+[2021-09-30T22:24:17.599] [INFO] app - database connected
+[2021-09-30T22:24:17.599] [INFO] app - connection intialized 
+[2021-09-30T22:24:39.948] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:24:39.949] [INFO] app - port : 27017
+[2021-09-30T22:24:39.949] [INFO] app - database name: crud
+[2021-09-30T22:24:40.047] [INFO] app - Event has been initialized
+[2021-09-30T22:24:40.489] [INFO] app - running on port 3000
+[2021-09-30T22:24:40.503] [INFO] app - database connected
+[2021-09-30T22:24:40.503] [INFO] app - connection intialized 
+[2021-09-30T22:24:40.505] [INFO] app - database connected
+[2021-09-30T22:24:40.505] [INFO] app - connection intialized 
+[2021-09-30T22:24:45.799] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:24:45.801] [INFO] app - port : 27017
+[2021-09-30T22:24:45.801] [INFO] app - database name: crud
+[2021-09-30T22:24:45.905] [INFO] app - Event has been initialized
+[2021-09-30T22:24:46.259] [INFO] app - running on port 3000
+[2021-09-30T22:24:46.274] [INFO] app - database connected
+[2021-09-30T22:24:46.275] [INFO] app - connection intialized 
+[2021-09-30T22:24:46.276] [INFO] app - database connected
+[2021-09-30T22:24:46.276] [INFO] app - connection intialized 
+[2021-09-30T22:26:07.589] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:26:07.591] [INFO] app - port : 27017
+[2021-09-30T22:26:07.591] [INFO] app - database name: crud
+[2021-09-30T22:26:07.702] [INFO] app - Event has been initialized
+[2021-09-30T22:26:08.099] [INFO] app - running on port 3000
+[2021-09-30T22:26:08.112] [INFO] app - database connected
+[2021-09-30T22:26:08.112] [INFO] app - connection intialized 
+[2021-09-30T22:26:08.113] [INFO] app - database connected
+[2021-09-30T22:26:08.113] [INFO] app - connection intialized 
+[2021-09-30T22:34:15.245] [INFO] app - host : mongodb://localhost
+[2021-09-30T22:34:15.246] [INFO] app - port : 27017
+[2021-09-30T22:34:15.246] [INFO] app - database name: crud
+[2021-09-30T22:34:15.332] [INFO] app - Event has been initialized
+[2021-09-30T22:34:15.676] [INFO] app - running on port 3000
+[2021-09-30T22:34:15.688] [INFO] app - database connected
+[2021-09-30T22:34:15.688] [INFO] app - connection intialized 
+[2021-09-30T22:34:15.689] [INFO] app - database connected
+[2021-09-30T22:34:15.690] [INFO] app - connection intialized 
+[2021-09-30T23:34:45.971] [INFO] app - host : mongodb://localhost
+[2021-09-30T23:34:45.973] [INFO] app - port : 27017
+[2021-09-30T23:34:45.973] [INFO] app - database name: crud
+[2021-09-30T23:34:46.068] [INFO] app - Event has been initialized
+[2021-09-30T23:34:46.445] [INFO] app - running on port 3000
+[2021-09-30T23:34:46.509] [INFO] app - database connected
+[2021-09-30T23:34:46.509] [INFO] app - connection intialized 
+[2021-09-30T23:34:46.510] [INFO] app - database connected
+[2021-09-30T23:34:46.510] [INFO] app - connection intialized 
+[2021-09-30T23:36:33.436] [INFO] app - signin API success
+[2021-09-30T23:36:59.545] [INFO] app - Get all API success
+[2021-09-30T23:37:35.372] [INFO] app - Get by id API success
+[2021-09-30T23:38:08.988] [INFO] app - Get all API success
+[2021-09-30T23:39:22.538] [INFO] app - update user API success
+[2021-09-30T23:39:30.924] [INFO] app - Get all API success
+[2021-09-30T23:41:09.709] [INFO] app - update user API success
+[2021-09-30T23:41:15.011] [INFO] app - Get all API success
+[2021-09-30T23:42:20.779] [INFO] app - update user API success
+[2021-09-30T23:43:07.558] [INFO] app - getEvent called 
+[2021-09-30T23:43:07.558] [INFO] app - Event has been initialized
+[2021-09-30T23:43:07.558] [INFO] app - event is on
+[2021-09-30T23:43:07.558] [INFO] app -  has been followed
+[2021-09-30T23:43:15.562] [INFO] app - Get all API success
+[2021-09-30T23:43:41.603] [INFO] app - view followers API success
+[2021-09-30T23:46:01.000] [INFO] app - host : mongodb://localhost
+[2021-09-30T23:46:01.003] [INFO] app - port : 27017
+[2021-09-30T23:46:01.003] [INFO] app - database name: crud
+[2021-09-30T23:46:01.115] [INFO] app - Event has been initialized
+[2021-09-30T23:46:01.960] [INFO] app - running on port 3000
+[2021-09-30T23:46:01.982] [INFO] app - database connected
+[2021-09-30T23:46:01.982] [INFO] app - connection intialized 
+[2021-09-30T23:46:01.986] [INFO] app - database connected
+[2021-09-30T23:46:01.987] [INFO] app - connection intialized 
+[2021-09-30T23:48:35.184] [INFO] app - view followers API success
+[2021-09-30T23:48:51.479] [INFO] app - host : mongodb://localhost
+[2021-09-30T23:48:51.481] [INFO] app - port : 27017
+[2021-09-30T23:48:51.481] [INFO] app - database name: crud
+[2021-09-30T23:48:51.572] [INFO] app - Event has been initialized
+[2021-09-30T23:48:52.000] [INFO] app - running on port 3000
+[2021-09-30T23:48:52.016] [INFO] app - database connected
+[2021-09-30T23:48:52.017] [INFO] app - connection intialized 
+[2021-09-30T23:48:52.018] [INFO] app - database connected
+[2021-09-30T23:48:52.018] [INFO] app - connection intialized 
+[2021-09-30T23:48:53.560] [ERROR] app - view followers API failed MongoServerError: An empty sub-projection is not a valid value. Found empty object at path
+    at MessageStream.messageHandler (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\mongodb\lib\cmap\connection.js:467:30)
+    at MessageStream.emit (events.js:315:20)
+    at processIncomingData (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at MessageStream.Writable.write (_stream_writable.js:318:11)
+    at Socket.ondata (_stream_readable.js:717:22)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12) {
+  ok: 0,
+  code: 51270,
+  codeName: 'Location51270'
+}
+[2021-09-30T23:49:51.843] [INFO] app - host : mongodb://localhost
+[2021-09-30T23:49:51.845] [INFO] app - port : 27017
+[2021-09-30T23:49:51.845] [INFO] app - database name: crud
+[2021-09-30T23:49:51.953] [INFO] app - Event has been initialized
+[2021-09-30T23:49:52.388] [INFO] app - running on port 3000
+[2021-09-30T23:49:52.406] [INFO] app - database connected
+[2021-09-30T23:49:52.406] [INFO] app - connection intialized 
+[2021-09-30T23:49:52.408] [INFO] app - database connected
+[2021-09-30T23:49:52.408] [INFO] app - connection intialized 
+[2021-09-30T23:49:56.941] [ERROR] app - view followers API failed ReferenceError: followers is not defined
+    at Object.showfollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:64:65)
+    at getAllFollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:126:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:410:3)
+[2021-10-01T09:43:57.276] [INFO] app - host : mongodb://localhost
+[2021-10-01T09:43:57.278] [INFO] app - port : 27017
+[2021-10-01T09:43:57.279] [INFO] app - database name: crud
+[2021-10-01T09:43:57.814] [INFO] app - Event has been initialized
+[2021-10-01T09:43:59.170] [INFO] app - running on port 3000
+[2021-10-01T09:43:59.184] [INFO] app - database connected
+[2021-10-01T09:43:59.184] [INFO] app - connection intialized 
+[2021-10-01T09:43:59.185] [INFO] app - database connected
+[2021-10-01T09:43:59.185] [INFO] app - connection intialized 
+[2021-10-01T09:44:52.995] [INFO] app - signin API success
+[2021-10-01T09:45:08.160] [INFO] app - view followers API success
+[2021-10-01T09:45:22.948] [INFO] app - host : mongodb://localhost
+[2021-10-01T09:45:22.950] [INFO] app - port : 27017
+[2021-10-01T09:45:22.950] [INFO] app - database name: crud
+[2021-10-01T09:45:23.075] [INFO] app - Event has been initialized
+[2021-10-01T09:45:23.507] [INFO] app - running on port 3000
+[2021-10-01T09:45:23.523] [INFO] app - database connected
+[2021-10-01T09:45:23.524] [INFO] app - connection intialized 
+[2021-10-01T09:45:23.524] [INFO] app - database connected
+[2021-10-01T09:45:23.524] [INFO] app - connection intialized 
+[2021-10-01T09:45:24.199] [ERROR] app - view followers API failed ReferenceError: followers is not defined
+    at Object.showfollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:64:65)
+    at getAllFollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:126:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:410:3)
+[2021-10-01T09:47:37.843] [INFO] app - host : mongodb://localhost
+[2021-10-01T09:47:37.845] [INFO] app - port : 27017
+[2021-10-01T09:47:37.845] [INFO] app - database name: crud
+[2021-10-01T09:47:37.947] [INFO] app - Event has been initialized
+[2021-10-01T09:47:38.335] [INFO] app - running on port 3000
+[2021-10-01T09:47:38.348] [INFO] app - database connected
+[2021-10-01T09:47:38.348] [INFO] app - connection intialized 
+[2021-10-01T09:47:38.349] [INFO] app - database connected
+[2021-10-01T09:47:38.349] [INFO] app - connection intialized 
+[2021-10-01T09:47:41.190] [ERROR] app - view followers API failed ReferenceError: $elemMatch is not defined
+    at Object.showfollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\db_functions\dbFunction.js:66:36)
+    at getAllFollowers (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\controllers\userController.js:126:32)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at next (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\layer.js:95:5)
+    at F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:281:22
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:354:14)
+    at param (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (F:\Company\Albanero\NodeJs\Learning\day_14\API using swagger\node_modules\express\lib\router\index.js:410:3)
+[2021-10-01T09:50:12.393] [INFO] app - host : mongodb://localhost
+[2021-10-01T09:50:12.395] [INFO] app - port : 27017
+[2021-10-01T09:50:12.395] [INFO] app - database name: crud
+[2021-10-01T09:50:12.495] [INFO] app - Event has been initialized
+[2021-10-01T09:50:12.910] [INFO] app - running on port 3000
+[2021-10-01T09:50:12.925] [INFO] app - database connected
+[2021-10-01T09:50:12.925] [INFO] app - connection intialized 
+[2021-10-01T09:50:12.926] [INFO] app - database connected
+[2021-10-01T09:50:12.926] [INFO] app - connection intialized 
